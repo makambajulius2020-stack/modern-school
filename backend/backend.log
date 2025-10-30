@@ -1,0 +1,1693 @@
+[2025-10-20 20:37:40] 🎯 Smart School Backend Manager Starting...
+[2025-10-20 20:37:41] ==================================================
+[2025-10-20 20:37:41] ⚙️ Setting up environment...
+[2025-10-20 20:37:41] ✅ Environment setup complete
+[2025-10-20 20:37:41] 🔍 Checking dependencies...
+[2025-10-20 20:37:44] ✅ flask - OK
+[2025-10-20 20:37:45] ✅ flask_cors - OK
+[2025-10-20 20:37:47] ✅ pymysql - OK
+[2025-10-20 20:37:47] ✅ requests - OK
+[2025-10-20 20:38:05] 🎯 Smart School Backend Manager Starting...
+[2025-10-20 20:38:05] ==================================================
+[2025-10-20 20:38:05] ⚙️ Setting up environment...
+[2025-10-20 20:38:05] ✅ Environment setup complete
+[2025-10-20 20:38:05] 🔍 Checking dependencies...
+[2025-10-20 20:38:06] ✅ flask - OK
+[2025-10-20 20:38:06] ✅ flask_cors - OK
+[2025-10-20 20:38:06] ✅ pymysql - OK
+[2025-10-20 20:38:06] ✅ requests - OK
+[2025-10-20 20:38:11] ✅ numpy - OK
+[2025-10-20 20:38:11] ✅ numpy - OK
+[2025-10-20 20:38:57] 🎯 Smart School Backend Manager Starting...
+[2025-10-20 20:38:57] ==================================================
+[2025-10-20 20:38:57] ⚙️ Setting up environment...
+[2025-10-20 20:38:57] ✅ Environment setup complete
+[2025-10-20 20:38:57] 🔍 Checking dependencies...
+[2025-10-20 20:39:00] ✅ flask - OK
+[2025-10-20 20:39:00] ✅ flask_cors - OK
+[2025-10-20 20:39:00] ✅ pymysql - OK
+[2025-10-20 20:39:00] ✅ requests - OK
+[2025-10-20 20:39:01] ✅ numpy - OK
+[2025-10-20 20:40:28] ✅ pandas - OK
+[2025-10-20 20:40:29] ❌ scikit-learn - MISSING
+[2025-10-20 20:40:30] ⚠️ Missing packages: scikit-learn
+[2025-10-20 20:40:30] Installing missing packages...
+[2025-10-20 20:40:30] ✅ pandas - OK
+[2025-10-20 20:40:31] ❌ scikit-learn - MISSING
+[2025-10-20 20:40:31] ⚠️ Missing packages: scikit-learn
+[2025-10-20 20:40:32] Installing missing packages...
+[2025-10-20 20:40:32] ✅ pandas - OK
+[2025-10-20 20:40:32] ❌ scikit-learn - MISSING
+[2025-10-20 20:40:32] ⚠️ Missing packages: scikit-learn
+[2025-10-20 20:40:32] Installing missing packages...
+[2025-10-20 20:41:12] ✅ Missing packages installed successfully
+[2025-10-20 20:41:12] 🔍 Checking database connection...
+[2025-10-20 20:41:12] ✅ Missing packages installed successfully
+[2025-10-20 20:41:12] 🔍 Checking database connection...
+[2025-10-20 20:41:13] ✅ Missing packages installed successfully
+[2025-10-20 20:41:13] 🔍 Checking database connection...
+[2025-10-20 20:41:13] ✅ Database connection - OK
+[2025-10-20 20:41:13] 🚀 Starting main Flask backend...
+[2025-10-20 20:41:13] ⚠️ Port 5000 is already in use. Trying port 5001...
+[2025-10-20 20:41:14] ✅ Database connection - OK
+[2025-10-20 20:41:14] 🚀 Starting main Flask backend...
+[2025-10-20 20:41:14] ✅ Database connection - OK
+[2025-10-20 20:41:14] 🚀 Starting main Flask backend...
+[2025-10-20 20:41:14] ⚠️ Port 5000 is already in use. Trying port 5001...
+[2025-10-20 20:41:14] ⚠️ Port 5000 is already in use. Trying port 5001...
+[2025-10-20 20:43:00] ✅ Main Flask backend started on port 5001
+[2025-10-20 20:43:00] ✅ Main Flask backend started on port 5001
+[2025-10-20 20:43:00] ✅ Main Flask backend started on port 5001
+[2025-10-20 20:43:02] 🔧 Starting additional services...
+[2025-10-20 20:43:02] 🔧 Starting additional services...
+[2025-10-20 20:43:02] ✅ Daily workflow scheduler started
+[2025-10-20 20:43:02] ✅ Daily workflow scheduler started
+[2025-10-20 20:43:03] ✅ N8N integration started
+[2025-10-20 20:43:03] 🔧 Starting additional services...
+[2025-10-20 20:43:03] ✅ N8N integration started
+[2025-10-20 20:43:03] ✅ Daily workflow scheduler started
+[2025-10-20 20:43:03] ✅ N8N integration started
+[2025-10-20 20:43:06] 🏥 Performing health check...
+[2025-10-20 20:43:06] 🏥 Performing health check...
+[2025-10-20 20:43:08] ✅ Main backend health check - OK
+[2025-10-20 20:43:08] ✅ Main backend health check - OK
+[2025-10-20 20:43:08] 🔍 Checking database connection...
+[2025-10-20 20:43:08] 🔍 Checking database connection...
+[2025-10-20 20:43:08] ✅ Database connection - OK
+[2025-10-20 20:43:08] ✅ Database connection - OK
+[2025-10-20 20:43:08] ✅ Database health check - OK
+[2025-10-20 20:43:08] ==================================================
+[2025-10-20 20:43:08] ✅ Database health check - OK
+[2025-10-20 20:43:08] ✅ Main backend health check - OK
+[2025-10-20 20:43:08] ==================================================
+[2025-10-20 20:43:08] 🎉 Smart School Backend is now running!
+[2025-10-20 20:43:08] 🎉 Smart School Backend is now running!
+[2025-10-20 20:43:08] 📍 Main API: http://localhost:5000
+[2025-10-20 20:43:08] 🔍 Checking database connection...
+[2025-10-20 20:43:08] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-20 20:43:08] 📍 Main API: http://localhost:5000
+[2025-10-20 20:43:08] 📊 API Documentation: http://localhost:5000/api/docs
+[2025-10-20 20:43:09] ✅ Database connection - OK
+[2025-10-20 20:43:09] 📝 Logs: backend.log
+[2025-10-20 20:43:09] ==================================================
+[2025-10-20 20:43:09] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-20 20:43:09] ✅ Database health check - OK
+[2025-10-20 20:43:09] ==================================================
+[2025-10-20 20:43:09] Press Ctrl+C to stop all services
+[2025-10-20 20:43:09] 📊 API Documentation: http://localhost:5000/api/docs
+[2025-10-20 20:43:09] 🎉 Smart School Backend is now running!
+[2025-10-20 20:43:09] 📝 Logs: backend.log
+[2025-10-20 20:43:09] ==================================================
+[2025-10-20 20:43:09] Press Ctrl+C to stop all services
+[2025-10-20 20:43:09] 📍 Main API: http://localhost:5000
+[2025-10-20 20:43:09] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-20 20:43:09] 📊 API Documentation: http://localhost:5000/api/docs
+[2025-10-20 20:43:09] 📝 Logs: backend.log
+[2025-10-20 20:43:09] ==================================================
+[2025-10-20 20:43:09] Press Ctrl+C to stop all services
+[2025-10-20 20:43:13] ⚠️ Process 6912 has stopped
+[2025-10-20 20:43:14] ⚠️ Process 15124 has stopped
+[2025-10-20 20:43:14] ⚠️ Process 4796 has stopped
+[2025-10-20 20:44:42] ⚠️ Process 1252 has stopped
+[2025-10-20 20:44:42] ⚠️ Process 16788 has stopped
+[2025-10-20 20:51:47] 🎯 Smart School Backend Manager Starting...
+[2025-10-20 20:51:47] ==================================================
+[2025-10-20 20:51:47] ⚙️ Setting up environment...
+[2025-10-20 20:51:47] ✅ Environment setup complete
+[2025-10-20 20:51:47] 🔍 Checking dependencies...
+[2025-10-20 20:51:48] ✅ flask - OK
+[2025-10-20 20:51:48] ✅ flask_cors - OK
+[2025-10-20 20:51:48] ✅ pymysql - OK
+[2025-10-20 20:51:48] ✅ requests - OK
+[2025-10-20 20:51:48] ✅ numpy - OK
+[2025-10-20 20:51:54] ✅ pandas - OK
+[2025-10-20 20:51:54] ❌ scikit-learn - MISSING
+[2025-10-20 20:51:56] ✅ flask_sqlalchemy - OK
+[2025-10-20 20:51:56] ✅ flask_migrate - OK
+[2025-10-20 20:51:56] ✅ flask_jwt_extended - OK
+[2025-10-20 20:51:56] ❌ python_dotenv - MISSING
+[2025-10-20 20:51:56] ⚠️ Missing packages: scikit-learn, python_dotenv
+[2025-10-20 20:51:56] Installing missing packages...
+[2025-10-20 20:52:08] ✅ Missing packages installed successfully
+[2025-10-20 20:52:08] 🔍 Checking if database exists...
+[2025-10-20 20:52:08] ✅ Database created/verified
+[2025-10-20 20:52:08] 🔍 Checking database connection...
+[2025-10-20 20:52:09] ✅ Database connection - OK
+[2025-10-20 20:52:09] 🚀 Starting main Flask backend...
+[2025-10-20 20:52:09] ⚠️ Port 5000 is already in use. Trying port 5001...
+[2025-10-20 20:52:17] ✅ Main Flask backend started on port 5001
+[2025-10-20 20:52:18] 🔧 Starting additional services...
+[2025-10-20 20:52:18] ✅ Daily workflow scheduler started
+[2025-10-20 20:52:18] ✅ N8N integration started
+[2025-10-20 20:52:18] 🧪 Running backend test...
+[2025-10-20 20:52:26] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-20 20:52:29] 🏥 Performing health check...
+[2025-10-20 20:52:31] ✅ Main backend health check - OK
+[2025-10-20 20:52:31]    Database status: Disconnected
+[2025-10-20 20:52:31] 🔍 Checking database connection...
+[2025-10-20 20:52:31] ✅ Database connection - OK
+[2025-10-20 20:52:31] ✅ Database health check - OK
+[2025-10-20 20:52:31] ==================================================
+[2025-10-20 20:52:31] 🎉 Smart School Backend is now running!
+[2025-10-20 20:52:31] 📍 Main API: http://localhost:5001
+[2025-10-20 20:52:31] 🔗 Health Check: http://localhost:5001/api/health
+[2025-10-20 20:52:31] 📝 Logs: backend.log
+[2025-10-20 20:52:31] ==================================================
+[2025-10-20 20:52:31] Press Ctrl+C to stop all services
+[2025-10-20 20:52:32] ⚠️ Process 18712 has stopped
+[2025-10-20 20:52:45] ⚠️ Process 11544 has stopped
+[2025-10-20 21:30:37] 🎯 Smart School Backend Manager Starting...
+[2025-10-20 21:30:37] ==================================================
+[2025-10-20 21:30:37] ⚙️ Setting up environment...
+[2025-10-20 21:30:37] ✅ Environment setup complete
+[2025-10-20 21:30:37] 🔍 Checking dependencies...
+[2025-10-20 21:30:39] ✅ flask - OK
+[2025-10-20 21:30:39] ✅ flask_cors - OK
+[2025-10-20 21:30:40] ✅ pymysql - OK
+[2025-10-20 21:30:40] ✅ requests - OK
+[2025-10-20 21:30:42] ✅ numpy - OK
+[2025-10-20 21:30:52] ✅ pandas - OK
+[2025-10-20 21:30:52] ❌ scikit-learn - MISSING
+[2025-10-20 21:30:56] ✅ flask_sqlalchemy - OK
+[2025-10-20 21:30:57] ✅ flask_migrate - OK
+[2025-10-20 21:30:58] ✅ flask_jwt_extended - OK
+[2025-10-20 21:30:58] ❌ python_dotenv - MISSING
+[2025-10-20 21:30:58] ⚠️ Missing packages: scikit-learn, python_dotenv
+[2025-10-20 21:30:58] Installing missing packages...
+[2025-10-20 21:32:20] ✅ Missing packages installed successfully
+[2025-10-20 21:32:20] 🔍 Checking if database exists...
+[2025-10-20 21:32:20] ✅ Database created/verified
+[2025-10-20 21:32:20] 🔍 Checking database connection...
+[2025-10-20 21:32:20] ✅ Database connection - OK
+[2025-10-20 21:32:20] 🚀 Starting main Flask backend...
+[2025-10-20 21:32:20] ⚠️ Port 5000 is already in use. Trying port 5001...
+[2025-10-20 21:32:44] ✅ Main Flask backend started on port 5001
+[2025-10-20 21:32:44] 🔧 Starting additional services...
+[2025-10-20 21:32:44] ✅ Daily workflow scheduler started
+[2025-10-20 21:32:44] ✅ N8N integration started
+[2025-10-20 21:32:44] 🧪 Running backend test...
+[2025-10-20 21:32:50] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-20 21:32:53] 🏥 Performing health check...
+[2025-10-20 21:32:55] ✅ Main backend health check - OK
+[2025-10-20 21:32:55]    Database status: Disconnected
+[2025-10-20 21:32:55] 🔍 Checking database connection...
+[2025-10-20 21:32:55] ✅ Database connection - OK
+[2025-10-20 21:32:55] ✅ Database health check - OK
+[2025-10-20 21:32:55] ==================================================
+[2025-10-20 21:32:55] 🎉 Smart School Backend is now running!
+[2025-10-20 21:32:55] 📍 Main API: http://localhost:5001
+[2025-10-20 21:32:55] 🔗 Health Check: http://localhost:5001/api/health
+[2025-10-20 21:32:55] 📝 Logs: backend.log
+[2025-10-20 21:32:56] ==================================================
+[2025-10-20 21:32:56] Press Ctrl+C to stop all services
+[2025-10-20 21:32:57] ⚠️ Process 700 has stopped
+[2025-10-20 21:33:31] ⚠️ Process 2688 has stopped
+[2025-10-20 22:21:47] 🎯 Smart School Backend Manager Starting...
+[2025-10-20 22:21:47] ==================================================
+[2025-10-20 22:21:47] ⚙️ Setting up environment...
+[2025-10-20 22:21:47] ✅ Environment setup complete
+[2025-10-20 22:21:47] 🔍 Checking dependencies...
+[2025-10-20 22:21:59] ✅ flask - OK
+[2025-10-20 22:22:00] ✅ flask_cors - OK
+[2025-10-20 22:22:05] ✅ pymysql - OK
+[2025-10-20 22:22:05] ✅ requests - OK
+[2025-10-20 22:22:12] ✅ numpy - OK
+[2025-10-20 22:22:32] ✅ pandas - OK
+[2025-10-20 22:22:32] ❌ scikit-learn - MISSING
+[2025-10-20 22:22:42] ✅ flask_sqlalchemy - OK
+[2025-10-20 22:22:50] ✅ flask_migrate - OK
+[2025-10-20 22:22:51] ✅ flask_jwt_extended - OK
+[2025-10-20 22:22:51] ❌ python_dotenv - MISSING
+[2025-10-20 22:22:51] ⚠️ Missing packages: scikit-learn, python_dotenv
+[2025-10-20 22:22:51] Installing missing packages...
+[2025-10-20 22:23:23] ✅ Missing packages installed successfully
+[2025-10-20 22:23:23] 🔍 Checking if database exists...
+[2025-10-20 22:23:28] ❌ Failed to create database: (2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")
+[2025-10-20 22:23:28] ⚠️ Database creation failed, but continuing...
+[2025-10-20 22:23:28] 🔍 Checking database connection...
+[2025-10-20 22:23:32] ❌ Database connection error: (2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")
+[2025-10-20 22:23:32] 💡 Make sure MySQL/XAMPP is running and database exists
+[2025-10-20 22:23:32] ⚠️ Database connection failed, but continuing...
+[2025-10-20 22:23:32] 🚀 Starting main Flask backend...
+[2025-10-20 22:24:25] ✅ Main Flask backend started on port 5000
+[2025-10-20 22:24:25] 🔧 Starting additional services...
+[2025-10-20 22:24:25] ✅ Daily workflow scheduler started
+[2025-10-20 22:24:25] ✅ N8N integration started
+[2025-10-20 22:24:25] 🧪 Running backend test...
+[2025-10-20 22:24:29] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-20 22:24:32] 🏥 Performing health check...
+[2025-10-20 22:24:34] ✅ Main backend health check - OK
+[2025-10-20 22:24:34]    Database status: Disconnected
+[2025-10-20 22:24:34] 🔍 Checking database connection...
+[2025-10-20 22:24:38] ❌ Database connection error: (2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")
+[2025-10-20 22:24:38] 💡 Make sure MySQL/XAMPP is running and database exists
+[2025-10-20 22:24:38] ❌ Database health check - FAILED
+[2025-10-20 22:24:38] ==================================================
+[2025-10-20 22:24:38] 🎉 Smart School Backend is now running!
+[2025-10-20 22:24:39] 📍 Main API: http://localhost:5000
+[2025-10-20 22:24:39] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-20 22:24:39] 📝 Logs: backend.log
+[2025-10-20 22:24:39] ==================================================
+[2025-10-20 22:24:39] Press Ctrl+C to stop all services
+[2025-10-20 22:24:40] ⚠️ Process 20120 has stopped
+[2025-10-20 22:24:53] ⚠️ Process 10624 has stopped
+[2025-10-21 00:51:36] 🎯 Smart School Backend Manager Starting...
+[2025-10-21 00:51:36] ==================================================
+[2025-10-21 00:51:36] ⚙️ Setting up environment...
+[2025-10-21 00:51:36] ✅ Environment setup complete
+[2025-10-21 00:51:36] 🔍 Checking dependencies...
+[2025-10-21 00:51:39] ✅ flask - OK
+[2025-10-21 00:51:39] ✅ flask_cors - OK
+[2025-10-21 00:51:40] ✅ pymysql - OK
+[2025-10-21 00:51:40] ✅ requests - OK
+[2025-10-21 00:51:43] ✅ numpy - OK
+[2025-10-21 00:51:52] ✅ pandas - OK
+[2025-10-21 00:51:52] ❌ scikit-learn - MISSING
+[2025-10-21 00:51:55] ✅ flask_sqlalchemy - OK
+[2025-10-21 00:51:57] ✅ flask_migrate - OK
+[2025-10-21 00:51:57] ✅ flask_jwt_extended - OK
+[2025-10-21 00:51:57] ❌ python_dotenv - MISSING
+[2025-10-21 00:51:57] ⚠️ Missing packages: scikit-learn, python_dotenv
+[2025-10-21 00:51:57] Installing missing packages...
+[2025-10-21 00:52:11] ✅ Missing packages installed successfully
+[2025-10-21 00:52:11] 🔍 Checking if database exists...
+[2025-10-21 00:52:11] ✅ Database created/verified
+[2025-10-21 00:52:11] 🔍 Checking database connection...
+[2025-10-21 00:52:11] ✅ Database connection - OK
+[2025-10-21 00:52:11] 🚀 Starting main Flask backend...
+[2025-10-21 00:52:24] ✅ Main Flask backend started on port 5000
+[2025-10-21 00:52:24] 🔧 Starting additional services...
+[2025-10-21 00:52:24] ✅ Daily workflow scheduler started
+[2025-10-21 00:52:24] ✅ N8N integration started
+[2025-10-21 00:52:24] 🧪 Running backend test...
+[2025-10-21 00:52:28] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-21 00:52:31] 🏥 Performing health check...
+[2025-10-21 00:52:33] ✅ Main backend health check - OK
+[2025-10-21 00:52:33]    Database status: Disconnected
+[2025-10-21 00:52:33] 🔍 Checking database connection...
+[2025-10-21 00:52:33] ✅ Database connection - OK
+[2025-10-21 00:52:33] ✅ Database health check - OK
+[2025-10-21 00:52:33] ==================================================
+[2025-10-21 00:52:33] 🎉 Smart School Backend is now running!
+[2025-10-21 00:52:33] 📍 Main API: http://localhost:5000
+[2025-10-21 00:52:33] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-21 00:52:33] 📝 Logs: backend.log
+[2025-10-21 00:52:33] ==================================================
+[2025-10-21 00:52:33] Press Ctrl+C to stop all services
+[2025-10-21 00:52:34] ⚠️ Process 12168 has stopped
+[2025-10-21 00:52:35] ⚠️ Process 9432 has stopped
+[2025-10-21 00:55:12] 🎯 Smart School Backend Manager Starting...
+[2025-10-21 00:55:12] ==================================================
+[2025-10-21 00:55:12] ⚙️ Setting up environment...
+[2025-10-21 00:55:12] ✅ Environment setup complete
+[2025-10-21 00:55:12] 🔍 Checking dependencies...
+[2025-10-21 00:55:13] ✅ flask - OK
+[2025-10-21 00:55:13] ✅ flask_cors - OK
+[2025-10-21 00:55:13] ✅ pymysql - OK
+[2025-10-21 00:55:13] ✅ requests - OK
+[2025-10-21 00:55:13] ✅ numpy - OK
+[2025-10-21 00:55:14] ✅ pandas - OK
+[2025-10-21 00:55:14] ❌ scikit-learn - MISSING
+[2025-10-21 00:55:15] ✅ flask_sqlalchemy - OK
+[2025-10-21 00:55:16] ✅ flask_migrate - OK
+[2025-10-21 00:55:16] ✅ flask_jwt_extended - OK
+[2025-10-21 00:55:16] ❌ python_dotenv - MISSING
+[2025-10-21 00:55:16] ⚠️ Missing packages: scikit-learn, python_dotenv
+[2025-10-21 00:55:16] Installing missing packages...
+[2025-10-21 00:55:21] ✅ Missing packages installed successfully
+[2025-10-21 00:55:21] 🔍 Checking if database exists...
+[2025-10-21 00:55:21] ✅ Database created/verified
+[2025-10-21 00:55:21] 🔍 Checking database connection...
+[2025-10-21 00:55:21] ✅ Database connection - OK
+[2025-10-21 00:55:21] 🚀 Starting main Flask backend...
+[2025-10-21 00:55:31] ✅ Main Flask backend started on port 5000
+[2025-10-21 00:55:31] 🔧 Starting additional services...
+[2025-10-21 00:55:31] ✅ Daily workflow scheduler started
+[2025-10-21 00:55:31] ✅ N8N integration started
+[2025-10-21 00:55:31] 🧪 Running backend test...
+[2025-10-21 00:55:35] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-21 00:55:38] 🏥 Performing health check...
+[2025-10-21 00:55:40] ✅ Main backend health check - OK
+[2025-10-21 00:55:40]    Database status: Disconnected
+[2025-10-21 00:55:40] 🔍 Checking database connection...
+[2025-10-21 00:55:40] ✅ Database connection - OK
+[2025-10-21 00:55:40] ✅ Database health check - OK
+[2025-10-21 00:55:40] ==================================================
+[2025-10-21 00:55:40] 🎉 Smart School Backend is now running!
+[2025-10-21 00:55:40] 📍 Main API: http://localhost:5000
+[2025-10-21 00:55:40] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-21 00:55:40] 📝 Logs: backend.log
+[2025-10-21 00:55:40] ==================================================
+[2025-10-21 00:55:40] Press Ctrl+C to stop all services
+[2025-10-21 00:55:41] ⚠️ Process 12228 has stopped
+[2025-10-21 00:55:42] ⚠️ Process 14680 has stopped
+[2025-10-21 01:10:06] 🛑 Shutdown signal received...
+[2025-10-21 01:10:06] 🔄 Shutting down all services...
+[2025-10-21 01:10:06] ✅ All services shut down
+[2025-10-21 01:10:07] 🔄 Shutting down all services...
+[2025-10-21 01:10:07] ✅ All services shut down
+[2025-10-21 01:10:33] 🎯 Smart School Backend Manager Starting...
+[2025-10-21 01:10:33] ==================================================
+[2025-10-21 01:10:33] ⚙️ Setting up environment...
+[2025-10-21 01:10:33] ✅ Environment setup complete
+[2025-10-21 01:10:33] 🔍 Checking dependencies...
+[2025-10-21 01:10:34] ✅ flask - OK
+[2025-10-21 01:10:34] ✅ flask_cors - OK
+[2025-10-21 01:10:34] ✅ pymysql - OK
+[2025-10-21 01:10:34] ✅ requests - OK
+[2025-10-21 01:10:34] ✅ numpy - OK
+[2025-10-21 01:10:36] ✅ pandas - OK
+[2025-10-21 01:10:36] ❌ scikit-learn - MISSING
+[2025-10-21 01:10:37] ✅ flask_sqlalchemy - OK
+[2025-10-21 01:10:38] ✅ flask_migrate - OK
+[2025-10-21 01:10:38] ✅ flask_jwt_extended - OK
+[2025-10-21 01:10:38] ❌ python_dotenv - MISSING
+[2025-10-21 01:10:38] ⚠️ Missing packages: scikit-learn, python_dotenv
+[2025-10-21 01:10:38] Installing missing packages...
+[2025-10-21 01:10:42] ✅ Missing packages installed successfully
+[2025-10-21 01:10:42] 🔍 Checking if database exists...
+[2025-10-21 01:10:42] ✅ Database created/verified
+[2025-10-21 01:10:42] 🔍 Checking database connection...
+[2025-10-21 01:10:42] ✅ Database connection - OK
+[2025-10-21 01:10:42] 🚀 Starting main Flask backend...
+[2025-10-21 01:10:48] ✅ Main Flask backend started on port 5000
+[2025-10-21 01:10:48] 🔧 Starting additional services...
+[2025-10-21 01:10:48] ✅ Daily workflow scheduler started
+[2025-10-21 01:10:48] ✅ N8N integration started
+[2025-10-21 01:10:48] 🧪 Running backend test...
+[2025-10-21 01:10:52] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-21 01:10:55] 🏥 Performing health check...
+[2025-10-21 01:10:57] ✅ Main backend health check - OK
+[2025-10-21 01:10:57]    Database status: Disconnected
+[2025-10-21 01:10:57] 🔍 Checking database connection...
+[2025-10-21 01:10:57] ✅ Database connection - OK
+[2025-10-21 01:10:57] ✅ Database health check - OK
+[2025-10-21 01:10:57] ==================================================
+[2025-10-21 01:10:57] 🎉 Smart School Backend is now running!
+[2025-10-21 01:10:57] 📍 Main API: http://localhost:5000
+[2025-10-21 01:10:57] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-21 01:10:57] 📝 Logs: backend.log
+[2025-10-21 01:10:57] ==================================================
+[2025-10-21 01:10:57] Press Ctrl+C to stop all services
+[2025-10-21 01:10:58] ⚠️ Process 5936 has stopped
+[2025-10-21 01:10:59] ⚠️ Process 10508 has stopped
+[2025-10-21 01:13:47] 🛑 Shutdown signal received...
+[2025-10-21 01:13:47] 🔄 Shutting down all services...
+[2025-10-21 01:13:47] ✅ All services shut down
+[2025-10-21 01:13:47] 🔄 Shutting down all services...
+[2025-10-21 01:13:47] ✅ All services shut down
+[2025-10-21 01:37:59] 🎯 Smart School Backend Manager Starting...
+[2025-10-21 01:37:59] ==================================================
+[2025-10-21 01:37:59] ⚙️ Setting up environment...
+[2025-10-21 01:37:59] ✅ Environment setup complete
+[2025-10-21 01:37:59] 🔍 Checking dependencies...
+[2025-10-21 01:37:59] ✅ flask - OK
+[2025-10-21 01:37:59] ✅ flask_cors - OK
+[2025-10-21 01:38:00] ✅ pymysql - OK
+[2025-10-21 01:38:00] ✅ requests - OK
+[2025-10-21 01:38:00] ✅ numpy - OK
+[2025-10-21 01:38:18] ✅ pandas - OK
+[2025-10-21 01:38:18] ❌ scikit-learn - MISSING
+[2025-10-21 01:38:19] ✅ flask_sqlalchemy - OK
+[2025-10-21 01:38:19] ✅ flask_migrate - OK
+[2025-10-21 01:38:19] ✅ flask_jwt_extended - OK
+[2025-10-21 01:38:19] ❌ python_dotenv - MISSING
+[2025-10-21 01:38:19] ⚠️ Missing packages: scikit-learn, python_dotenv
+[2025-10-21 01:38:19] Installing missing packages...
+[2025-10-21 01:38:40] ✅ Missing packages installed successfully
+[2025-10-21 01:38:40] 🔍 Checking if database exists...
+[2025-10-21 01:38:40] ✅ Database created/verified
+[2025-10-21 01:38:40] 🔍 Checking database connection...
+[2025-10-21 01:38:40] ✅ Database connection - OK
+[2025-10-21 01:38:40] 🚀 Starting main Flask backend...
+[2025-10-21 01:38:47] ✅ Main Flask backend started on port 5000
+[2025-10-21 01:38:47] 🔧 Starting additional services...
+[2025-10-21 01:38:47] ✅ Daily workflow scheduler started
+[2025-10-21 01:38:47] ✅ N8N integration started
+[2025-10-21 01:38:47] 🧪 Running backend test...
+[2025-10-21 01:38:51] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-21 01:38:54] 🏥 Performing health check...
+[2025-10-21 01:38:56] ✅ Main backend health check - OK
+[2025-10-21 01:38:56]    Database status: Disconnected
+[2025-10-21 01:38:56] 🔍 Checking database connection...
+[2025-10-21 01:38:56] ✅ Database connection - OK
+[2025-10-21 01:38:56] ✅ Database health check - OK
+[2025-10-21 01:38:56] ==================================================
+[2025-10-21 01:38:56] 🎉 Smart School Backend is now running!
+[2025-10-21 01:38:56] 📍 Main API: http://localhost:5000
+[2025-10-21 01:38:56] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-21 01:38:56] 📝 Logs: backend.log
+[2025-10-21 01:38:56] ==================================================
+[2025-10-21 01:38:56] Press Ctrl+C to stop all services
+[2025-10-21 01:38:57] ⚠️ Process 5444 has stopped
+[2025-10-21 01:38:58] ⚠️ Process 15736 has stopped
+[2025-10-21 01:40:35] 🛑 Shutdown signal received...
+[2025-10-21 01:40:35] 🔄 Shutting down all services...
+[2025-10-21 01:40:35] ✅ All services shut down
+[2025-10-21 01:40:36] 🔄 Shutting down all services...
+[2025-10-21 01:40:36] ✅ All services shut down
+[2025-10-21 01:41:37] 🎯 Smart School Backend Manager Starting...
+[2025-10-21 01:41:37] ==================================================
+[2025-10-21 01:41:37] ⚙️ Setting up environment...
+[2025-10-21 01:41:37] ✅ Environment setup complete
+[2025-10-21 01:41:37] 🔍 Checking dependencies...
+[2025-10-21 01:41:37] ✅ flask - OK
+[2025-10-21 01:41:37] ✅ flask_cors - OK
+[2025-10-21 01:41:37] ✅ pymysql - OK
+[2025-10-21 01:41:37] ✅ requests - OK
+[2025-10-21 01:41:37] ✅ numpy - OK
+[2025-10-21 01:41:38] ✅ pandas - OK
+[2025-10-21 01:41:38] ❌ scikit-learn - MISSING
+[2025-10-21 01:41:39] ✅ flask_sqlalchemy - OK
+[2025-10-21 01:41:39] ✅ flask_migrate - OK
+[2025-10-21 01:41:39] ✅ flask_jwt_extended - OK
+[2025-10-21 01:41:39] ❌ python_dotenv - MISSING
+[2025-10-21 01:41:39] ⚠️ Missing packages: scikit-learn, python_dotenv
+[2025-10-21 01:41:39] Installing missing packages...
+[2025-10-21 01:41:42] ✅ Missing packages installed successfully
+[2025-10-21 01:41:42] 🔍 Checking if database exists...
+[2025-10-21 01:41:42] ✅ Database created/verified
+[2025-10-21 01:41:42] 🔍 Checking database connection...
+[2025-10-21 01:41:42] ✅ Database connection - OK
+[2025-10-21 01:41:42] 🚀 Starting main Flask backend...
+[2025-10-21 01:41:46] ✅ Main Flask backend started on port 5000
+[2025-10-21 01:41:46] 🔧 Starting additional services...
+[2025-10-21 01:41:46] ✅ Daily workflow scheduler started
+[2025-10-21 01:41:46] ✅ N8N integration started
+[2025-10-21 01:41:46] 🧪 Running backend test...
+[2025-10-21 01:41:51] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-21 01:41:54] 🏥 Performing health check...
+[2025-10-21 01:41:56] ✅ Main backend health check - OK
+[2025-10-21 01:41:56]    Database status: Disconnected
+[2025-10-21 01:41:56] 🔍 Checking database connection...
+[2025-10-21 01:41:56] ✅ Database connection - OK
+[2025-10-21 01:41:56] ✅ Database health check - OK
+[2025-10-21 01:41:56] ==================================================
+[2025-10-21 01:41:56] 🎉 Smart School Backend is now running!
+[2025-10-21 01:41:56] 📍 Main API: http://localhost:5000
+[2025-10-21 01:41:56] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-21 01:41:56] 📝 Logs: backend.log
+[2025-10-21 01:41:56] ==================================================
+[2025-10-21 01:41:56] Press Ctrl+C to stop all services
+[2025-10-21 01:41:57] ⚠️ Process 18536 has stopped
+[2025-10-21 01:41:58] ⚠️ Process 684 has stopped
+[2025-10-21 01:45:02] 🎯 Smart School Backend Manager Starting...
+[2025-10-21 01:45:02] ==================================================
+[2025-10-21 01:45:02] ⚙️ Setting up environment...
+[2025-10-21 01:45:02] ✅ Environment setup complete
+[2025-10-21 01:45:02] 🔍 Checking dependencies...
+[2025-10-21 01:45:02] ✅ flask - OK
+[2025-10-21 01:45:02] ✅ flask_cors - OK
+[2025-10-21 01:45:03] ✅ pymysql - OK
+[2025-10-21 01:45:03] ✅ requests - OK
+[2025-10-21 01:45:03] ✅ numpy - OK
+[2025-10-21 01:45:03] ✅ pandas - OK
+[2025-10-21 01:45:05] ✅ sklearn - OK
+[2025-10-21 01:45:05] ✅ flask_sqlalchemy - OK
+[2025-10-21 01:45:05] ✅ flask_migrate - OK
+[2025-10-21 01:45:05] ✅ flask_jwt_extended - OK
+[2025-10-21 01:45:05] ❌ python_dotenv - MISSING
+[2025-10-21 01:45:05] ⚠️ Missing packages: python_dotenv
+[2025-10-21 01:45:05] Installing missing packages...
+[2025-10-21 01:45:09] ✅ Missing packages installed successfully
+[2025-10-21 01:45:09] 🔍 Checking if database exists...
+[2025-10-21 01:45:09] ✅ Database created/verified
+[2025-10-21 01:45:09] 🔍 Checking database connection...
+[2025-10-21 01:45:09] ✅ Database connection - OK
+[2025-10-21 01:45:09] 🚀 Starting main Flask backend...
+[2025-10-21 01:45:14] ✅ Main Flask backend started on port 5000
+[2025-10-21 01:45:14] 🔧 Starting additional services...
+[2025-10-21 01:45:14] ✅ Daily workflow scheduler started
+[2025-10-21 01:45:14] ✅ N8N integration started
+[2025-10-21 01:45:14] 🧪 Running backend test...
+[2025-10-21 01:45:18] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-21 01:45:19] 🛑 Shutdown signal received...
+[2025-10-21 01:45:19] 🔄 Shutting down all services...
+[2025-10-21 01:45:19] ✅ Process 1248 terminated
+[2025-10-21 01:45:19] ✅ Process 6888 terminated
+[2025-10-21 01:45:19] ✅ All services shut down
+[2025-10-21 01:45:21] 🏥 Performing health check...
+[2025-10-21 01:45:23] ✅ Main backend health check - OK
+[2025-10-21 01:45:23]    Database status: Disconnected
+[2025-10-21 01:45:23] 🔍 Checking database connection...
+[2025-10-21 01:45:23] ✅ Database connection - OK
+[2025-10-21 01:45:23] ✅ Database health check - OK
+[2025-10-21 01:45:23] ==================================================
+[2025-10-21 01:45:23] 🎉 Smart School Backend is now running!
+[2025-10-21 01:45:23] 📍 Main API: http://localhost:5000
+[2025-10-21 01:45:23] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-21 01:45:23] 📝 Logs: backend.log
+[2025-10-21 01:45:23] ==================================================
+[2025-10-21 01:45:23] Press Ctrl+C to stop all services
+[2025-10-21 01:45:23] 🔄 Shutting down all services...
+[2025-10-21 01:45:23] ✅ Process 1248 terminated
+[2025-10-21 01:45:23] ✅ Process 6888 terminated
+[2025-10-21 01:45:23] ✅ All services shut down
+[2025-10-21 01:45:38] 🎯 Smart School Backend Manager Starting...
+[2025-10-21 01:45:38] ==================================================
+[2025-10-21 01:45:38] ⚙️ Setting up environment...
+[2025-10-21 01:45:38] ✅ Environment setup complete
+[2025-10-21 01:45:38] 🔍 Checking dependencies...
+[2025-10-21 01:45:38] ✅ flask - OK
+[2025-10-21 01:45:38] ✅ flask_cors - OK
+[2025-10-21 01:45:39] ✅ pymysql - OK
+[2025-10-21 01:45:39] ✅ requests - OK
+[2025-10-21 01:45:39] ✅ numpy - OK
+[2025-10-21 01:45:40] ✅ pandas - OK
+[2025-10-21 01:45:42] 🛑 Shutdown signal received...
+[2025-10-21 01:45:42] 🔄 Shutting down all services...
+[2025-10-21 01:45:42] ✅ All services shut down
+[2025-10-21 01:45:43] ✅ sklearn - OK
+[2025-10-21 01:45:43] ✅ flask_sqlalchemy - OK
+[2025-10-21 01:45:44] ✅ flask_migrate - OK
+[2025-10-21 01:45:44] ✅ flask_jwt_extended - OK
+[2025-10-21 01:45:44] ✅ dotenv - OK
+[2025-10-21 01:45:44] 🔍 Checking if database exists...
+[2025-10-21 01:45:44] ✅ Database created/verified
+[2025-10-21 01:45:44] 🔍 Checking database connection...
+[2025-10-21 01:45:44] ✅ Database connection - OK
+[2025-10-21 01:45:44] 🚀 Starting main Flask backend...
+[2025-10-21 01:45:48] ✅ Main Flask backend started on port 5000
+[2025-10-21 01:45:48] 🔧 Starting additional services...
+[2025-10-21 01:45:48] ✅ Daily workflow scheduler started
+[2025-10-21 01:45:48] ✅ N8N integration started
+[2025-10-21 01:45:48] 🧪 Running backend test...
+[2025-10-21 01:45:51] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-21 01:45:54] 🏥 Performing health check...
+[2025-10-21 01:45:57] ✅ Main backend health check - OK
+[2025-10-21 01:45:57]    Database status: Disconnected
+[2025-10-21 01:45:57] 🔍 Checking database connection...
+[2025-10-21 01:45:57] ✅ Database connection - OK
+[2025-10-21 01:45:57] ✅ Database health check - OK
+[2025-10-21 01:45:57] ==================================================
+[2025-10-21 01:45:57] 🎉 Smart School Backend is now running!
+[2025-10-21 01:45:57] 📍 Main API: http://localhost:5000
+[2025-10-21 01:45:57] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-21 01:45:57] 📝 Logs: backend.log
+[2025-10-21 01:45:57] ==================================================
+[2025-10-21 01:45:57] Press Ctrl+C to stop all services
+[2025-10-21 01:45:57] 🔄 Shutting down all services...
+[2025-10-21 01:45:57] ✅ Process 19972 terminated
+[2025-10-21 01:45:57] ✅ Process 2208 terminated
+[2025-10-21 01:45:57] ✅ All services shut down
+[2025-10-21 01:47:25] 🎯 Smart School Backend Manager Starting...
+[2025-10-21 01:47:25] ==================================================
+[2025-10-21 01:47:25] ⚙️ Setting up environment...
+[2025-10-21 01:47:25] ✅ Environment setup complete
+[2025-10-21 01:47:25] 🔍 Checking dependencies...
+[2025-10-21 01:47:26] ✅ flask - OK
+[2025-10-21 01:47:26] ✅ flask_cors - OK
+[2025-10-21 01:47:26] ✅ pymysql - OK
+[2025-10-21 01:47:26] ✅ requests - OK
+[2025-10-21 01:47:26] ✅ numpy - OK
+[2025-10-21 01:47:27] ✅ pandas - OK
+[2025-10-21 01:47:29] ✅ sklearn - OK
+[2025-10-21 01:47:30] 🛑 Shutdown signal received...
+[2025-10-21 01:47:30] 🔄 Shutting down all services...
+[2025-10-21 01:47:30] ✅ All services shut down
+[2025-10-21 01:47:30] ✅ flask_sqlalchemy - OK
+[2025-10-21 01:47:30] ✅ flask_migrate - OK
+[2025-10-21 01:47:30] ✅ flask_jwt_extended - OK
+[2025-10-21 01:47:30] ✅ dotenv - OK
+[2025-10-21 01:47:30] 🔍 Checking if database exists...
+[2025-10-21 01:47:30] ✅ Database created/verified
+[2025-10-21 01:47:30] 🔍 Checking database connection...
+[2025-10-21 01:47:30] ✅ Database connection - OK
+[2025-10-21 01:47:30] 🚀 Starting main Flask backend...
+[2025-10-21 01:47:35] ✅ Main Flask backend started on port 5000
+[2025-10-21 01:47:35] 🔧 Starting additional services...
+[2025-10-21 01:47:35] ✅ Daily workflow scheduler started
+[2025-10-21 01:47:35] ✅ N8N integration started
+[2025-10-21 01:47:35] 🧪 Running backend test...
+[2025-10-21 01:47:38] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-21 01:47:41] 🏥 Performing health check...
+[2025-10-21 01:47:43] ✅ Main backend health check - OK
+[2025-10-21 01:47:43]    Database status: Disconnected
+[2025-10-21 01:47:43] 🔍 Checking database connection...
+[2025-10-21 01:47:43] ✅ Database connection - OK
+[2025-10-21 01:47:43] ✅ Database health check - OK
+[2025-10-21 01:47:43] ==================================================
+[2025-10-21 01:47:43] 🎉 Smart School Backend is now running!
+[2025-10-21 01:47:43] 📍 Main API: http://localhost:5000
+[2025-10-21 01:47:43] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-21 01:47:43] 📝 Logs: backend.log
+[2025-10-21 01:47:43] ==================================================
+[2025-10-21 01:47:43] Press Ctrl+C to stop all services
+[2025-10-21 01:47:43] 🔄 Shutting down all services...
+[2025-10-21 01:47:43] ✅ Process 1120 terminated
+[2025-10-21 01:47:43] ✅ Process 7272 terminated
+[2025-10-21 01:47:43] ✅ All services shut down
+[2025-10-21 01:58:55] 🎯 Smart School Backend Manager Starting...
+[2025-10-21 01:58:55] ==================================================
+[2025-10-21 01:58:55] ⚙️ Setting up environment...
+[2025-10-21 01:58:55] ✅ Environment setup complete
+[2025-10-21 01:58:55] 🔍 Checking dependencies...
+[2025-10-21 01:58:55] ✅ flask - OK
+[2025-10-21 01:58:55] ✅ flask_cors - OK
+[2025-10-21 01:58:56] ✅ pymysql - OK
+[2025-10-21 01:58:56] ✅ requests - OK
+[2025-10-21 01:58:56] ✅ numpy - OK
+[2025-10-21 01:58:57] ✅ pandas - OK
+[2025-10-21 01:58:59] ✅ sklearn - OK
+[2025-10-21 01:59:00] ✅ flask_sqlalchemy - OK
+[2025-10-21 01:59:00] ✅ flask_migrate - OK
+[2025-10-21 01:59:00] ✅ flask_jwt_extended - OK
+[2025-10-21 01:59:00] ✅ dotenv - OK
+[2025-10-21 01:59:00] 🔍 Checking if database exists...
+[2025-10-21 01:59:00] ✅ Database created/verified
+[2025-10-21 01:59:00] 🔍 Checking database connection...
+[2025-10-21 01:59:00] ✅ Database connection - OK
+[2025-10-21 01:59:00] 🚀 Starting main Flask backend...
+[2025-10-21 01:59:06] ✅ Main Flask backend started on port 5000
+[2025-10-21 01:59:06] 🔧 Starting additional services...
+[2025-10-21 01:59:06] ✅ Daily workflow scheduler started
+[2025-10-21 01:59:06] ✅ N8N integration started
+[2025-10-21 01:59:06] 🧪 Running backend test...
+[2025-10-21 01:59:07] 🛑 Shutdown signal received...
+[2025-10-21 01:59:07] 🔄 Shutting down all services...
+[2025-10-21 01:59:07] ✅ Process 16304 terminated
+[2025-10-21 01:59:07] ✅ Process 15324 terminated
+[2025-10-21 01:59:07] ✅ All services shut down
+[2025-10-21 01:59:07] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 6, in <module>
+    import requests
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\__init__.py", line 43, in <module>
+    import urllib3
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\__init__.py", line 8, in <module>
+    import logging
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 26, in <module>
+    import sys, os, time, io, re, traceback, warnings, weakref, collections.abc
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\traceback.py", line 8, in <module>
+    from contextlib import suppress
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1122, in _find_and_load_unlocked
+KeyboardInterrupt
+
+[2025-10-21 01:59:10] 🏥 Performing health check...
+[2025-10-21 01:59:12] ✅ Main backend health check - OK
+[2025-10-21 01:59:12]    Database status: Disconnected
+[2025-10-21 01:59:12] 🔍 Checking database connection...
+[2025-10-21 01:59:12] ✅ Database connection - OK
+[2025-10-21 01:59:12] ✅ Database health check - OK
+[2025-10-21 01:59:12] ==================================================
+[2025-10-21 01:59:12] 🎉 Smart School Backend is now running!
+[2025-10-21 01:59:12] 📍 Main API: http://localhost:5000
+[2025-10-21 01:59:12] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-21 01:59:12] 📝 Logs: backend.log
+[2025-10-21 01:59:12] ==================================================
+[2025-10-21 01:59:12] Press Ctrl+C to stop all services
+[2025-10-21 01:59:12] 🔄 Shutting down all services...
+[2025-10-21 01:59:12] ✅ Process 16304 terminated
+[2025-10-21 01:59:12] ✅ Process 15324 terminated
+[2025-10-21 01:59:12] ✅ All services shut down
+[2025-10-21 02:03:42] 🎯 Smart School Backend Manager Starting...
+[2025-10-21 02:03:42] ==================================================
+[2025-10-21 02:03:42] ⚙️ Setting up environment...
+[2025-10-21 02:03:42] ✅ Environment setup complete
+[2025-10-21 02:03:42] 🔍 Checking dependencies...
+[2025-10-21 02:03:43] ✅ flask - OK
+[2025-10-21 02:03:43] ✅ flask_cors - OK
+[2025-10-21 02:03:43] ✅ pymysql - OK
+[2025-10-21 02:03:43] ✅ requests - OK
+[2025-10-21 02:03:43] ✅ numpy - OK
+[2025-10-21 02:03:44] ✅ pandas - OK
+[2025-10-21 02:03:45] ✅ sklearn - OK
+[2025-10-21 02:03:46] ✅ flask_sqlalchemy - OK
+[2025-10-21 02:03:46] ✅ flask_migrate - OK
+[2025-10-21 02:03:46] ✅ flask_jwt_extended - OK
+[2025-10-21 02:03:46] ✅ dotenv - OK
+[2025-10-21 02:03:46] 🔍 Checking if database exists...
+[2025-10-21 02:03:46] ✅ Database created/verified
+[2025-10-21 02:03:46] 🔍 Checking database connection...
+[2025-10-21 02:03:46] ✅ Database connection - OK
+[2025-10-21 02:03:46] 🚀 Starting main Flask backend...
+[2025-10-21 02:03:51] ✅ Main Flask backend started on port 5000
+[2025-10-21 02:03:51] 🔧 Starting additional services...
+[2025-10-21 02:03:51] ✅ Daily workflow scheduler started
+[2025-10-21 02:03:51] ✅ N8N integration started
+[2025-10-21 02:03:51] 🧪 Running backend test...
+[2025-10-21 02:03:55] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-21 02:03:58] 🏥 Performing health check...
+[2025-10-21 02:04:00] ✅ Main backend health check - OK
+[2025-10-21 02:04:00]    Database status: Connected
+[2025-10-21 02:04:00] 🔍 Checking database connection...
+[2025-10-21 02:04:00] ✅ Database connection - OK
+[2025-10-21 02:04:00] ✅ Database health check - OK
+[2025-10-21 02:04:00] ==================================================
+[2025-10-21 02:04:00] 🎉 Smart School Backend is now running!
+[2025-10-21 02:04:00] 📍 Main API: http://localhost:5000
+[2025-10-21 02:04:00] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-21 02:04:00] 📝 Logs: backend.log
+[2025-10-21 02:04:00] ==================================================
+[2025-10-21 02:04:00] Press Ctrl+C to stop all services
+[2025-10-21 02:04:01] ⚠️ Process 19316 has stopped
+[2025-10-21 02:04:02] ⚠️ Process 9568 has stopped
+[2025-10-21 08:27:00] 🎯 Smart School Backend Manager Starting...
+[2025-10-21 08:27:00] ==================================================
+[2025-10-21 08:27:00] ⚙️ Setting up environment...
+[2025-10-21 08:27:00] ✅ Environment setup complete
+[2025-10-21 08:27:00] 🔍 Checking dependencies...
+[2025-10-21 08:27:01] ✅ flask - OK
+[2025-10-21 08:27:01] ✅ flask_cors - OK
+[2025-10-21 08:27:05] ✅ pymysql - OK
+[2025-10-21 08:27:05] ✅ requests - OK
+[2025-10-21 08:27:09] ✅ numpy - OK
+[2025-10-21 08:27:25] ✅ pandas - OK
+[2025-10-21 08:28:00] ✅ sklearn - OK
+[2025-10-21 08:28:04] ✅ flask_sqlalchemy - OK
+[2025-10-21 08:28:06] ✅ flask_migrate - OK
+[2025-10-21 08:28:07] ✅ flask_jwt_extended - OK
+[2025-10-21 08:28:07] ✅ dotenv - OK
+[2025-10-21 08:28:07] 🔍 Checking if database exists...
+[2025-10-21 08:28:07] ✅ Database created/verified
+[2025-10-21 08:28:07] 🔍 Checking database connection...
+[2025-10-21 08:28:07] ✅ Database connection - OK
+[2025-10-21 08:28:07] 🚀 Starting main Flask backend...
+[2025-10-21 08:28:22] ✅ Main Flask backend started on port 5000
+[2025-10-21 08:28:22] 🔧 Starting additional services...
+[2025-10-21 08:28:22] ✅ Daily workflow scheduler started
+[2025-10-21 08:28:22] ✅ N8N integration started
+[2025-10-21 08:28:22] 🧪 Running backend test...
+[2025-10-21 08:28:26] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-21 08:28:29] 🏥 Performing health check...
+[2025-10-21 08:28:31] ✅ Main backend health check - OK
+[2025-10-21 08:28:31]    Database status: Connected
+[2025-10-21 08:28:31] 🔍 Checking database connection...
+[2025-10-21 08:28:31] ✅ Database connection - OK
+[2025-10-21 08:28:31] ✅ Database health check - OK
+[2025-10-21 08:28:31] ==================================================
+[2025-10-21 08:28:31] 🎉 Smart School Backend is now running!
+[2025-10-21 08:28:31] 📍 Main API: http://localhost:5000
+[2025-10-21 08:28:31] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-21 08:28:31] 📝 Logs: backend.log
+[2025-10-21 08:28:31] ==================================================
+[2025-10-21 08:28:31] Press Ctrl+C to stop all services
+[2025-10-21 08:28:32] ⚠️ Process 7424 has stopped
+[2025-10-21 08:28:33] ⚠️ Process 10408 has stopped
+[2025-10-21 08:34:14] 🎯 Smart School Backend Manager Starting...
+[2025-10-21 08:34:14] ==================================================
+[2025-10-21 08:34:14] ⚙️ Setting up environment...
+[2025-10-21 08:34:14] ✅ Environment setup complete
+[2025-10-21 08:34:14] 🔍 Checking dependencies...
+[2025-10-21 08:34:15] ✅ flask - OK
+[2025-10-21 08:34:15] ✅ flask_cors - OK
+[2025-10-21 08:34:15] ✅ pymysql - OK
+[2025-10-21 08:34:15] ✅ requests - OK
+[2025-10-21 08:34:16] ✅ numpy - OK
+[2025-10-21 08:34:17] ✅ pandas - OK
+[2025-10-21 08:34:20] ✅ sklearn - OK
+[2025-10-21 08:34:21] ✅ flask_sqlalchemy - OK
+[2025-10-21 08:34:21] ✅ flask_migrate - OK
+[2025-10-21 08:34:22] ✅ flask_jwt_extended - OK
+[2025-10-21 08:34:22] ✅ dotenv - OK
+[2025-10-21 08:34:22] 🔍 Checking if database exists...
+[2025-10-21 08:34:22] ✅ Database created/verified
+[2025-10-21 08:34:22] 🔍 Checking database connection...
+[2025-10-21 08:34:22] ✅ Database connection - OK
+[2025-10-21 08:34:22] 🚀 Starting main Flask backend...
+[2025-10-21 08:34:27] ✅ Main Flask backend started on port 5000
+[2025-10-21 08:34:27] 🔧 Starting additional services...
+[2025-10-21 08:34:27] ✅ Daily workflow scheduler started
+[2025-10-21 08:34:27] ✅ N8N integration started
+[2025-10-21 08:34:27] 🧪 Running backend test...
+[2025-10-21 08:34:31] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-21 08:34:34] 🏥 Performing health check...
+[2025-10-21 08:34:36] ✅ Main backend health check - OK
+[2025-10-21 08:34:36]    Database status: Connected
+[2025-10-21 08:34:36] 🔍 Checking database connection...
+[2025-10-21 08:34:36] ✅ Database connection - OK
+[2025-10-21 08:34:36] ✅ Database health check - OK
+[2025-10-21 08:34:36] ==================================================
+[2025-10-21 08:34:36] 🎉 Smart School Backend is now running!
+[2025-10-21 08:34:36] 📍 Main API: http://localhost:5000
+[2025-10-21 08:34:36] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-21 08:34:36] 📝 Logs: backend.log
+[2025-10-21 08:34:36] ==================================================
+[2025-10-21 08:34:36] Press Ctrl+C to stop all services
+[2025-10-21 08:34:37] ⚠️ Process 16816 has stopped
+[2025-10-21 08:34:40] ⚠️ Process 2524 has stopped
+[2025-10-21 13:29:29] 🎯 Smart School Backend Manager Starting...
+[2025-10-21 13:29:29] ==================================================
+[2025-10-21 13:29:29] ⚙️ Setting up environment...
+[2025-10-21 13:29:29] ✅ Environment setup complete
+[2025-10-21 13:29:29] 🔍 Checking dependencies...
+[2025-10-21 13:29:44] ✅ flask - OK
+[2025-10-21 13:29:45] ✅ flask_cors - OK
+[2025-10-21 13:29:50] ✅ pymysql - OK
+[2025-10-21 13:29:50] ✅ requests - OK
+[2025-10-21 13:29:56] ✅ numpy - OK
+[2025-10-21 13:31:07] ✅ pandas - OK
+[2025-10-21 13:31:56] ✅ sklearn - OK
+[2025-10-21 13:32:01] ✅ flask_sqlalchemy - OK
+[2025-10-21 13:32:03] ✅ flask_migrate - OK
+[2025-10-21 13:32:03] ✅ flask_jwt_extended - OK
+[2025-10-21 13:32:03] ✅ dotenv - OK
+[2025-10-21 13:32:03] 🔍 Checking if database exists...
+[2025-10-21 13:32:04] ✅ Database created/verified
+[2025-10-21 13:32:04] 🔍 Checking database connection...
+[2025-10-21 13:32:04] ✅ Database connection - OK
+[2025-10-21 13:32:04] 🚀 Starting main Flask backend...
+[2025-10-21 13:32:46] ✅ Main Flask backend started on port 5000
+[2025-10-21 13:32:46] 🔧 Starting additional services...
+[2025-10-21 13:32:46] ✅ Daily workflow scheduler started
+[2025-10-21 13:32:46] ✅ N8N integration started
+[2025-10-21 13:32:46] 🧪 Running backend test...
+[2025-10-21 13:32:50] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-21 13:32:53] 🏥 Performing health check...
+[2025-10-21 13:32:55] ✅ Main backend health check - OK
+[2025-10-21 13:32:55]    Database status: Connected
+[2025-10-21 13:32:55] 🔍 Checking database connection...
+[2025-10-21 13:32:55] ✅ Database connection - OK
+[2025-10-21 13:32:55] ✅ Database health check - OK
+[2025-10-21 13:32:55] ==================================================
+[2025-10-21 13:32:55] 🎉 Smart School Backend is now running!
+[2025-10-21 13:32:55] 📍 Main API: http://localhost:5000
+[2025-10-21 13:32:55] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-21 13:32:55] 📝 Logs: backend.log
+[2025-10-21 13:32:55] ==================================================
+[2025-10-21 13:32:55] Press Ctrl+C to stop all services
+[2025-10-21 13:32:56] ⚠️ Process 11076 has stopped
+[2025-10-21 13:33:07] ⚠️ Process 13968 has stopped
+[2025-10-22 10:22:22] 🎯 Smart School Backend Manager Starting...
+[2025-10-22 10:22:22] ==================================================
+[2025-10-22 10:22:22] ⚙️ Setting up environment...
+[2025-10-22 10:22:22] ✅ Environment setup complete
+[2025-10-22 10:22:22] 🔍 Checking dependencies...
+[2025-10-22 10:22:35] ✅ flask - OK
+[2025-10-22 10:22:35] ✅ flask_cors - OK
+[2025-10-22 10:22:42] ✅ pymysql - OK
+[2025-10-22 10:22:42] ✅ requests - OK
+[2025-10-22 10:23:05] ✅ numpy - OK
+[2025-10-22 10:23:54] ✅ pandas - OK
+[2025-10-22 10:25:14] ✅ sklearn - OK
+[2025-10-22 10:25:22] ✅ flask_sqlalchemy - OK
+[2025-10-22 10:25:26] ✅ flask_migrate - OK
+[2025-10-22 10:25:28] ✅ flask_jwt_extended - OK
+[2025-10-22 10:25:28] ✅ dotenv - OK
+[2025-10-22 10:25:28] 🔍 Checking if database exists...
+[2025-10-22 10:25:30] ✅ Database created/verified
+[2025-10-22 10:25:30] 🔍 Checking database connection...
+[2025-10-22 10:25:31] ✅ Database connection - OK
+[2025-10-22 10:25:31] 🚀 Starting main Flask backend...
+[2025-10-22 10:26:33] ✅ Main Flask backend started on port 5000
+[2025-10-22 10:26:33] 🔧 Starting additional services...
+[2025-10-22 10:26:33] ✅ Daily workflow scheduler started
+[2025-10-22 10:26:33] ✅ N8N integration started
+[2025-10-22 10:26:33] 🧪 Running backend test...
+[2025-10-22 10:26:39] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-22 10:26:42] 🏥 Performing health check...
+[2025-10-22 10:26:44] ✅ Main backend health check - OK
+[2025-10-22 10:26:44]    Database status: Connected
+[2025-10-22 10:26:44] 🔍 Checking database connection...
+[2025-10-22 10:26:44] ✅ Database connection - OK
+[2025-10-22 10:26:44] ✅ Database health check - OK
+[2025-10-22 10:26:44] ==================================================
+[2025-10-22 10:26:44] 🎉 Smart School Backend is now running!
+[2025-10-22 10:26:44] 📍 Main API: http://localhost:5000
+[2025-10-22 10:26:44] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-22 10:26:44] 📝 Logs: backend.log
+[2025-10-22 10:26:44] ==================================================
+[2025-10-22 10:26:44] Press Ctrl+C to stop all services
+[2025-10-22 10:26:45] ⚠️ Process 8312 has stopped
+[2025-10-22 10:27:03] ⚠️ Process 17472 has stopped
+[2025-10-22 11:33:33] 🎯 Smart School Backend Manager Starting...
+[2025-10-22 11:33:33] ==================================================
+[2025-10-22 11:33:33] ⚙️ Setting up environment...
+[2025-10-22 11:33:33] ✅ Environment setup complete
+[2025-10-22 11:33:33] 🔍 Checking dependencies...
+[2025-10-22 11:33:37] ✅ flask - OK
+[2025-10-22 11:33:37] ✅ flask_cors - OK
+[2025-10-22 11:33:41] ✅ pymysql - OK
+[2025-10-22 11:33:41] ✅ requests - OK
+[2025-10-22 11:33:45] ✅ numpy - OK
+[2025-10-22 11:33:55] ✅ pandas - OK
+[2025-10-22 11:34:20] ✅ sklearn - OK
+[2025-10-22 11:34:24] ✅ flask_sqlalchemy - OK
+[2025-10-22 11:34:27] ✅ flask_migrate - OK
+[2025-10-22 11:34:27] ✅ flask_jwt_extended - OK
+[2025-10-22 11:34:28] ✅ dotenv - OK
+[2025-10-22 11:34:28] 🔍 Checking if database exists...
+[2025-10-22 11:34:28] ✅ Database created/verified
+[2025-10-22 11:34:28] 🔍 Checking database connection...
+[2025-10-22 11:34:28] ✅ Database connection - OK
+[2025-10-22 11:34:28] 🚀 Starting main Flask backend...
+[2025-10-22 11:34:43] ✅ Main Flask backend started on port 5000
+[2025-10-22 11:34:43] 🔧 Starting additional services...
+[2025-10-22 11:34:43] ✅ Daily workflow scheduler started
+[2025-10-22 11:34:43] ✅ N8N integration started
+[2025-10-22 11:34:43] 🧪 Running backend test...
+[2025-10-22 11:34:48] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-22 11:34:51] 🏥 Performing health check...
+[2025-10-22 11:34:53] ✅ Main backend health check - OK
+[2025-10-22 11:34:53]    Database status: Connected
+[2025-10-22 11:34:53] 🔍 Checking database connection...
+[2025-10-22 11:34:53] ✅ Database connection - OK
+[2025-10-22 11:34:53] ✅ Database health check - OK
+[2025-10-22 11:34:53] ==================================================
+[2025-10-22 11:34:53] 🎉 Smart School Backend is now running!
+[2025-10-22 11:34:53] 📍 Main API: http://localhost:5000
+[2025-10-22 11:34:53] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-22 11:34:53] 📝 Logs: backend.log
+[2025-10-22 11:34:53] ==================================================
+[2025-10-22 11:34:53] Press Ctrl+C to stop all services
+[2025-10-22 11:34:54] ⚠️ Process 15732 has stopped
+[2025-10-22 11:34:57] ⚠️ Process 16552 has stopped
+[2025-10-22 11:42:46] 🎯 Smart School Backend Manager Starting...
+[2025-10-22 11:42:46] ==================================================
+[2025-10-22 11:42:46] ⚙️ Setting up environment...
+[2025-10-22 11:42:46] ✅ Environment setup complete
+[2025-10-22 11:42:46] 🔍 Checking dependencies...
+[2025-10-22 11:42:50] ✅ flask - OK
+[2025-10-22 11:42:50] ✅ flask_cors - OK
+[2025-10-22 11:42:51] ✅ pymysql - OK
+[2025-10-22 11:42:51] ✅ requests - OK
+[2025-10-22 11:42:53] ✅ numpy - OK
+[2025-10-22 11:43:19] ✅ pandas - OK
+[2025-10-22 11:44:03] ✅ sklearn - OK
+[2025-10-22 11:44:08] ✅ flask_sqlalchemy - OK
+[2025-10-22 11:44:10] ✅ flask_migrate - OK
+[2025-10-22 11:44:10] ✅ flask_jwt_extended - OK
+[2025-10-22 11:44:10] ✅ dotenv - OK
+[2025-10-22 11:44:10] 🔍 Checking if database exists...
+[2025-10-22 11:44:10] ✅ Database created/verified
+[2025-10-22 11:44:10] 🔍 Checking database connection...
+[2025-10-22 11:44:10] ✅ Database connection - OK
+[2025-10-22 11:44:10] 🚀 Starting main Flask backend...
+[2025-10-22 11:44:30] ✅ Main Flask backend started on port 5000
+[2025-10-22 11:44:30] 🔧 Starting additional services...
+[2025-10-22 11:44:30] ✅ Daily workflow scheduler started
+[2025-10-22 11:44:30] ✅ N8N integration started
+[2025-10-22 11:44:30] 🧪 Running backend test...
+[2025-10-22 11:44:34] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-22 11:44:37] 🏥 Performing health check...
+[2025-10-22 11:44:39] ✅ Main backend health check - OK
+[2025-10-22 11:44:39]    Database status: Connected
+[2025-10-22 11:44:39] 🔍 Checking database connection...
+[2025-10-22 11:44:39] ✅ Database connection - OK
+[2025-10-22 11:44:39] ✅ Database health check - OK
+[2025-10-22 11:44:39] ==================================================
+[2025-10-22 11:44:39] 🎉 Smart School Backend is now running!
+[2025-10-22 11:44:39] 📍 Main API: http://localhost:5000
+[2025-10-22 11:44:39] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-22 11:44:39] 📝 Logs: backend.log
+[2025-10-22 11:44:39] ==================================================
+[2025-10-22 11:44:39] Press Ctrl+C to stop all services
+[2025-10-22 11:44:40] ⚠️ Process 19728 has stopped
+[2025-10-22 11:44:48] ⚠️ Process 16640 has stopped
+[2025-10-22 12:12:25] 🎯 Smart School Backend Manager Starting...
+[2025-10-22 12:12:25] ==================================================
+[2025-10-22 12:12:25] ⚙️ Setting up environment...
+[2025-10-22 12:12:25] ✅ Environment setup complete
+[2025-10-22 12:12:25] 🔍 Checking dependencies...
+[2025-10-22 12:12:27] ✅ flask - OK
+[2025-10-22 12:12:27] ✅ flask_cors - OK
+[2025-10-22 12:12:28] ✅ pymysql - OK
+[2025-10-22 12:12:28] ✅ requests - OK
+[2025-10-22 12:12:29] ✅ numpy - OK
+[2025-10-22 12:12:36] ✅ pandas - OK
+[2025-10-22 12:12:46] ✅ sklearn - OK
+[2025-10-22 12:12:49] ✅ flask_sqlalchemy - OK
+[2025-10-22 12:12:51] ✅ flask_migrate - OK
+[2025-10-22 12:12:51] ✅ flask_jwt_extended - OK
+[2025-10-22 12:12:51] ✅ dotenv - OK
+[2025-10-22 12:12:51] 🔍 Checking if database exists...
+[2025-10-22 12:12:51] ✅ Database created/verified
+[2025-10-22 12:12:51] 🔍 Checking database connection...
+[2025-10-22 12:12:51] ✅ Database connection - OK
+[2025-10-22 12:12:51] 🚀 Starting main Flask backend...
+[2025-10-22 12:13:05] ✅ Main Flask backend started on port 5000
+[2025-10-22 12:13:05] 🔧 Starting additional services...
+[2025-10-22 12:13:05] ✅ Daily workflow scheduler started
+[2025-10-22 12:13:05] ✅ N8N integration started
+[2025-10-22 12:13:05] 🧪 Running backend test...
+[2025-10-22 12:13:11] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\MARY\Desktop\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\MARY\Desktop\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\MARY\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-22 12:13:14] 🏥 Performing health check...
+[2025-10-22 12:13:16] ✅ Main backend health check - OK
+[2025-10-22 12:13:16]    Database status: Connected
+[2025-10-22 12:13:16] 🔍 Checking database connection...
+[2025-10-22 12:13:16] ✅ Database connection - OK
+[2025-10-22 12:13:16] ✅ Database health check - OK
+[2025-10-22 12:13:16] ==================================================
+[2025-10-22 12:13:16] 🎉 Smart School Backend is now running!
+[2025-10-22 12:13:16] 📍 Main API: http://localhost:5000
+[2025-10-22 12:13:16] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-22 12:13:16] 📝 Logs: backend.log
+[2025-10-22 12:13:16] ==================================================
+[2025-10-22 12:13:16] Press Ctrl+C to stop all services
+[2025-10-22 12:13:17] ⚠️ Process 18824 has stopped
+[2025-10-22 12:13:22] ⚠️ Process 8784 has stopped
+[2025-10-23 08:27:14] 🎯 Smart School Backend Manager Starting...
+[2025-10-23 08:27:14] ==================================================
+[2025-10-23 08:27:14] ⚙️ Setting up environment...
+[2025-10-23 08:27:14] ✅ Environment setup complete
+[2025-10-23 08:27:14] 🔍 Checking dependencies...
+[2025-10-23 08:27:15] ✅ flask - OK
+[2025-10-23 08:27:15] ✅ flask_cors - OK
+[2025-10-23 08:27:15] ✅ pymysql - OK
+[2025-10-23 08:27:15] ✅ requests - OK
+[2025-10-23 08:27:18] ✅ numpy - OK
+[2025-10-23 08:27:18] ❌ pandas - MISSING
+[2025-10-23 08:27:18] ❌ sklearn - MISSING
+[2025-10-23 08:27:20] ✅ flask_sqlalchemy - OK
+[2025-10-23 08:27:20] ✅ flask_migrate - OK
+[2025-10-23 08:27:20] ✅ flask_jwt_extended - OK
+[2025-10-23 08:27:20] ✅ dotenv - OK
+[2025-10-23 08:27:20] ⚠️ Missing packages: pandas, sklearn
+[2025-10-23 08:27:20] Installing missing packages...
+[2025-10-23 08:27:36] ❌ Failed to install packages: Command '['C:\\Users\\ef6\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', '-m', 'pip', 'install', 'pandas', 'sklearn']' returned non-zero exit status 1.
+[2025-10-23 08:27:36] ❌ Dependency check failed. Exiting...
+[2025-10-23 08:27:36] 🔄 Shutting down all services...
+[2025-10-23 08:27:36] ✅ All services shut down
+[2025-10-23 10:23:26] 🎯 Smart School Backend Manager Starting...
+[2025-10-23 10:23:26] ==================================================
+[2025-10-23 10:23:26] ⚙️ Setting up environment...
+[2025-10-23 10:23:26] ✅ Environment setup complete
+[2025-10-23 10:23:26] 🔍 Checking dependencies...
+[2025-10-23 10:23:27] ✅ flask - OK
+[2025-10-23 10:23:27] ✅ flask_cors - OK
+[2025-10-23 10:23:27] ✅ pymysql - OK
+[2025-10-23 10:23:27] ✅ requests - OK
+[2025-10-23 10:23:30] ✅ numpy - OK
+[2025-10-23 10:23:30] ❌ pandas - MISSING
+[2025-10-23 10:23:30] ❌ sklearn - MISSING
+[2025-10-23 10:23:32] ✅ flask_sqlalchemy - OK
+[2025-10-23 10:23:34] ✅ flask_migrate - OK
+[2025-10-23 10:23:34] ✅ flask_jwt_extended - OK
+[2025-10-23 10:23:34] ✅ dotenv - OK
+[2025-10-23 10:23:34] ⚠️ Missing packages: pandas, sklearn
+[2025-10-23 10:23:34] Installing missing packages...
+[2025-10-23 10:23:41] ❌ Failed to install packages: Command '['C:\\Users\\ef6\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', '-m', 'pip', 'install', 'pandas', 'sklearn']' returned non-zero exit status 1.
+[2025-10-23 10:23:41] ❌ Dependency check failed. Exiting...
+[2025-10-23 10:23:41] 🔄 Shutting down all services...
+[2025-10-23 10:23:41] ✅ All services shut down
+[2025-10-23 10:30:26] 🎯 Smart School Backend Manager Starting...
+[2025-10-23 10:30:26] ==================================================
+[2025-10-23 10:30:26] ⚙️ Setting up environment...
+[2025-10-23 10:30:26] ✅ Environment setup complete
+[2025-10-23 10:30:26] 🔍 Checking dependencies...
+[2025-10-23 10:30:27] ✅ flask - OK
+[2025-10-23 10:30:27] ✅ flask_cors - OK
+[2025-10-23 10:30:27] ✅ pymysql - OK
+[2025-10-23 10:30:27] ✅ requests - OK
+[2025-10-23 10:30:28] ✅ numpy - OK
+[2025-10-23 10:30:28] ❌ pandas - MISSING
+[2025-10-23 10:30:28] ❌ sklearn - MISSING
+[2025-10-23 10:30:30] ✅ flask_sqlalchemy - OK
+[2025-10-23 10:30:30] ✅ flask_migrate - OK
+[2025-10-23 10:30:30] ✅ flask_jwt_extended - OK
+[2025-10-23 10:30:30] ✅ dotenv - OK
+[2025-10-23 10:30:30] ⚠️ Missing packages: pandas, sklearn
+[2025-10-23 10:30:30] Installing missing packages...
+[2025-10-23 10:30:37] ❌ Failed to install packages: Command '['C:\\Users\\ef6\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', '-m', 'pip', 'install', 'pandas', 'sklearn']' returned non-zero exit status 1.
+[2025-10-23 10:30:37] ❌ Dependency check failed. Exiting...
+[2025-10-23 10:30:37] 🔄 Shutting down all services...
+[2025-10-23 10:30:37] ✅ All services shut down
+[2025-10-23 10:35:38] 🎯 Smart School Backend Manager Starting...
+[2025-10-23 10:35:38] ==================================================
+[2025-10-23 10:35:38] ⚙️ Setting up environment...
+[2025-10-23 10:35:38] ✅ Environment setup complete
+[2025-10-23 10:35:38] 🔍 Checking dependencies...
+[2025-10-23 10:35:40] ✅ flask - OK
+[2025-10-23 10:35:40] ✅ flask_cors - OK
+[2025-10-23 10:35:40] ✅ pymysql - OK
+[2025-10-23 10:35:40] ✅ requests - OK
+[2025-10-23 10:35:45] ✅ numpy - OK
+[2025-10-23 10:35:50] ✅ pandas - OK
+[2025-10-23 10:36:05] ✅ sklearn - OK
+[2025-10-23 10:36:07] ✅ flask_sqlalchemy - OK
+[2025-10-23 10:36:08] ✅ flask_migrate - OK
+[2025-10-23 10:36:08] ✅ flask_jwt_extended - OK
+[2025-10-23 10:36:08] ✅ dotenv - OK
+[2025-10-23 10:36:08] 🔍 Checking if database exists...
+[2025-10-23 10:36:08] ❌ Failed to create database: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 10:36:08] ⚠️ Database creation failed, but continuing...
+[2025-10-23 10:36:08] 🔍 Checking database connection...
+[2025-10-23 10:36:08] ❌ Database connection error: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 10:36:08] 💡 Make sure MySQL/XAMPP is running and database exists
+[2025-10-23 10:36:08] ⚠️ Database connection failed, but continuing...
+[2025-10-23 10:36:08] 🚀 Starting main Flask backend...
+[2025-10-23 10:36:11] ❌ Failed to start main backend: No module named 'passlib'
+[2025-10-23 10:36:11] 🔄 Trying fallback backend (real_backend.py)...
+[2025-10-23 10:36:11] ✅ Fallback backend started
+[2025-10-23 10:36:11] 🔧 Starting additional services...
+[2025-10-23 10:36:11] ✅ Daily workflow scheduler started
+[2025-10-23 10:36:11] ✅ N8N integration started
+[2025-10-23 10:36:11] 🧪 Running backend test...
+[2025-10-23 10:36:15] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\ef6\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\ef6\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\ef6\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-23 10:36:18] 🏥 Performing health check...
+[2025-10-23 10:36:21] ✅ Main backend health check - OK
+[2025-10-23 10:36:21]    Database status: Connected
+[2025-10-23 10:36:21] 🔍 Checking database connection...
+[2025-10-23 10:36:21] ❌ Database connection error: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 10:36:21] 💡 Make sure MySQL/XAMPP is running and database exists
+[2025-10-23 10:36:21] ❌ Database health check - FAILED
+[2025-10-23 10:36:21] ==================================================
+[2025-10-23 10:36:21] 🎉 Smart School Backend is now running!
+[2025-10-23 10:36:21] 📍 Main API: http://localhost:5000
+[2025-10-23 10:36:21] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-23 10:36:21] 📝 Logs: backend.log
+[2025-10-23 10:36:21] ==================================================
+[2025-10-23 10:36:21] Press Ctrl+C to stop all services
+[2025-10-23 10:36:22] ⚠️ Process 10424 has stopped
+[2025-10-23 10:36:23] ⚠️ Process 12136 has stopped
+[2025-10-23 10:53:15] ⚠️ Process 8304 has stopped
+[2025-10-23 18:10:00] 🎯 Smart School Backend Manager Starting...
+[2025-10-23 18:10:00] ==================================================
+[2025-10-23 18:10:00] ⚙️ Setting up environment...
+[2025-10-23 18:10:00] ✅ Environment setup complete
+[2025-10-23 18:10:00] 🔍 Checking dependencies...
+[2025-10-23 18:10:01] ✅ flask - OK
+[2025-10-23 18:10:01] ✅ flask_cors - OK
+[2025-10-23 18:10:01] ✅ pymysql - OK
+[2025-10-23 18:10:01] ✅ requests - OK
+[2025-10-23 18:10:02] ✅ numpy - OK
+[2025-10-23 18:10:05] ✅ pandas - OK
+[2025-10-23 18:10:18] ✅ sklearn - OK
+[2025-10-23 18:10:19] ✅ flask_sqlalchemy - OK
+[2025-10-23 18:10:19] ✅ flask_migrate - OK
+[2025-10-23 18:10:19] ✅ flask_jwt_extended - OK
+[2025-10-23 18:10:19] ✅ dotenv - OK
+[2025-10-23 18:10:19] 🔍 Checking if database exists...
+[2025-10-23 18:10:19] ❌ Failed to create database: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 18:10:19] ⚠️ Database creation failed, but continuing...
+[2025-10-23 18:10:19] 🔍 Checking database connection...
+[2025-10-23 18:10:19] ❌ Database connection error: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 18:10:19] 💡 Make sure MySQL/XAMPP is running and database exists
+[2025-10-23 18:10:19] ⚠️ Database connection failed, but continuing...
+[2025-10-23 18:10:19] 🚀 Starting main Flask backend...
+[2025-10-23 18:10:20] ❌ Failed to start main backend: No module named 'passlib'
+[2025-10-23 18:10:20] 🔄 Trying fallback backend (real_backend.py)...
+[2025-10-23 18:10:20] ✅ Fallback backend started
+[2025-10-23 18:10:20] 🔧 Starting additional services...
+[2025-10-23 18:10:20] ✅ Daily workflow scheduler started
+[2025-10-23 18:10:20] ✅ N8N integration started
+[2025-10-23 18:10:20] 🧪 Running backend test...
+[2025-10-23 18:10:24] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\ef6\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\ef6\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\ef6\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-23 18:10:27] 🏥 Performing health check...
+[2025-10-23 18:10:29] ✅ Main backend health check - OK
+[2025-10-23 18:10:29]    Database status: Connected
+[2025-10-23 18:10:29] 🔍 Checking database connection...
+[2025-10-23 18:10:29] ❌ Database connection error: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 18:10:29] 💡 Make sure MySQL/XAMPP is running and database exists
+[2025-10-23 18:10:29] ❌ Database health check - FAILED
+[2025-10-23 18:10:29] ==================================================
+[2025-10-23 18:10:29] 🎉 Smart School Backend is now running!
+[2025-10-23 18:10:29] 📍 Main API: http://localhost:5000
+[2025-10-23 18:10:29] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-23 18:10:29] 📝 Logs: backend.log
+[2025-10-23 18:10:29] ==================================================
+[2025-10-23 18:10:29] Press Ctrl+C to stop all services
+[2025-10-23 18:10:30] ⚠️ Process 10048 has stopped
+[2025-10-23 18:10:31] ⚠️ Process 7616 has stopped
+[2025-10-23 18:29:25] 🎯 Smart School Backend Manager Starting...
+[2025-10-23 18:29:25] ==================================================
+[2025-10-23 18:29:25] ⚙️ Setting up environment...
+[2025-10-23 18:29:25] ✅ Environment setup complete
+[2025-10-23 18:29:25] 🔍 Checking dependencies...
+[2025-10-23 18:29:26] ✅ flask - OK
+[2025-10-23 18:29:26] ✅ flask_cors - OK
+[2025-10-23 18:29:26] ✅ pymysql - OK
+[2025-10-23 18:29:26] ✅ requests - OK
+[2025-10-23 18:29:26] ✅ numpy - OK
+[2025-10-23 18:29:28] ✅ pandas - OK
+[2025-10-23 18:29:31] ✅ sklearn - OK
+[2025-10-23 18:29:32] ✅ flask_sqlalchemy - OK
+[2025-10-23 18:29:33] ✅ flask_migrate - OK
+[2025-10-23 18:29:33] ✅ flask_jwt_extended - OK
+[2025-10-23 18:29:33] ✅ dotenv - OK
+[2025-10-23 18:29:33] 🔍 Checking if database exists...
+[2025-10-23 18:29:33] ❌ Failed to create database: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 18:29:33] ⚠️ Database creation failed, but continuing...
+[2025-10-23 18:29:33] 🔍 Checking database connection...
+[2025-10-23 18:29:33] ❌ Database connection error: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 18:29:33] 💡 Make sure MySQL/XAMPP is running and database exists
+[2025-10-23 18:29:33] ⚠️ Database connection failed, but continuing...
+[2025-10-23 18:29:33] 🚀 Starting main Flask backend...
+[2025-10-23 18:29:34] ❌ Failed to start main backend: No module named 'openai'
+[2025-10-23 18:29:34] 🔄 Trying fallback backend (real_backend.py)...
+[2025-10-23 18:29:34] ✅ Fallback backend started
+[2025-10-23 18:29:34] 🔧 Starting additional services...
+[2025-10-23 18:29:34] ✅ Daily workflow scheduler started
+[2025-10-23 18:29:34] ✅ N8N integration started
+[2025-10-23 18:29:34] 🧪 Running backend test...
+[2025-10-23 18:29:38] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\ef6\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\ef6\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\ef6\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-23 18:29:41] 🏥 Performing health check...
+[2025-10-23 18:29:44] ✅ Main backend health check - OK
+[2025-10-23 18:29:44]    Database status: Connected
+[2025-10-23 18:29:44] 🔍 Checking database connection...
+[2025-10-23 18:29:44] ❌ Database connection error: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 18:29:44] 💡 Make sure MySQL/XAMPP is running and database exists
+[2025-10-23 18:29:44] ❌ Database health check - FAILED
+[2025-10-23 18:29:44] ==================================================
+[2025-10-23 18:29:44] 🎉 Smart School Backend is now running!
+[2025-10-23 18:29:44] 📍 Main API: http://localhost:5000
+[2025-10-23 18:29:44] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-23 18:29:44] 📝 Logs: backend.log
+[2025-10-23 18:29:44] ==================================================
+[2025-10-23 18:29:44] Press Ctrl+C to stop all services
+[2025-10-23 18:29:45] ⚠️ Process 1056 has stopped
+[2025-10-23 18:29:46] ⚠️ Process 14012 has stopped
+[2025-10-23 18:52:33] 🎯 Smart School Backend Manager Starting...
+[2025-10-23 18:52:33] ==================================================
+[2025-10-23 18:52:33] ⚙️ Setting up environment...
+[2025-10-23 18:52:33] ✅ Environment setup complete
+[2025-10-23 18:52:33] 🔍 Checking dependencies...
+[2025-10-23 18:52:33] ✅ flask - OK
+[2025-10-23 18:52:33] ✅ flask_cors - OK
+[2025-10-23 18:52:33] ✅ pymysql - OK
+[2025-10-23 18:52:33] ✅ requests - OK
+[2025-10-23 18:52:33] ✅ numpy - OK
+[2025-10-23 18:52:34] ✅ pandas - OK
+[2025-10-23 18:52:36] ✅ sklearn - OK
+[2025-10-23 18:52:37] ✅ flask_sqlalchemy - OK
+[2025-10-23 18:52:37] ✅ flask_migrate - OK
+[2025-10-23 18:52:37] ✅ flask_jwt_extended - OK
+[2025-10-23 18:52:37] ✅ dotenv - OK
+[2025-10-23 18:52:37] 🔍 Checking if database exists...
+[2025-10-23 18:52:37] ❌ Failed to create database: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 18:52:37] ⚠️ Database creation failed, but continuing...
+[2025-10-23 18:52:37] 🔍 Checking database connection...
+[2025-10-23 18:52:37] ❌ Database connection error: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 18:52:37] 💡 Make sure MySQL/XAMPP is running and database exists
+[2025-10-23 18:52:37] ⚠️ Database connection failed, but continuing...
+[2025-10-23 18:52:37] 🚀 Starting main Flask backend...
+[2025-10-23 18:52:41] ✅ Main Flask backend started on port 5000
+[2025-10-23 18:52:41] 🔧 Starting additional services...
+[2025-10-23 18:52:41] ✅ Daily workflow scheduler started
+[2025-10-23 18:52:41] ✅ N8N integration started
+[2025-10-23 18:52:41] 🧪 Running backend test...
+[2025-10-23 18:52:45] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\ef6\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\ef6\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\ef6\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-23 18:52:48] 🏥 Performing health check...
+[2025-10-23 18:52:50] ✅ Main backend health check - OK
+[2025-10-23 18:52:50]    Database status: Connected
+[2025-10-23 18:52:50] 🔍 Checking database connection...
+[2025-10-23 18:52:50] ❌ Database connection error: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 18:52:50] 💡 Make sure MySQL/XAMPP is running and database exists
+[2025-10-23 18:52:50] ❌ Database health check - FAILED
+[2025-10-23 18:52:50] ==================================================
+[2025-10-23 18:52:50] 🎉 Smart School Backend is now running!
+[2025-10-23 18:52:50] 📍 Main API: http://localhost:5000
+[2025-10-23 18:52:50] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-23 18:52:50] 📝 Logs: backend.log
+[2025-10-23 18:52:50] ==================================================
+[2025-10-23 18:52:50] Press Ctrl+C to stop all services
+[2025-10-23 18:52:51] ⚠️ Process 6204 has stopped
+[2025-10-23 18:52:52] ⚠️ Process 3044 has stopped
+[2025-10-23 19:11:04] 🎯 Smart School Backend Manager Starting...
+[2025-10-23 19:11:04] ==================================================
+[2025-10-23 19:11:04] ⚙️ Setting up environment...
+[2025-10-23 19:11:04] ✅ Environment setup complete
+[2025-10-23 19:11:04] 🔍 Checking dependencies...
+[2025-10-23 19:11:05] ✅ flask - OK
+[2025-10-23 19:11:05] ✅ flask_cors - OK
+[2025-10-23 19:11:05] ✅ pymysql - OK
+[2025-10-23 19:11:05] ✅ requests - OK
+[2025-10-23 19:11:05] ✅ numpy - OK
+[2025-10-23 19:11:06] ✅ pandas - OK
+[2025-10-23 19:11:08] ✅ sklearn - OK
+[2025-10-23 19:11:08] ✅ flask_sqlalchemy - OK
+[2025-10-23 19:11:09] ✅ flask_migrate - OK
+[2025-10-23 19:11:09] ✅ flask_jwt_extended - OK
+[2025-10-23 19:11:09] ✅ dotenv - OK
+[2025-10-23 19:11:09] 🔍 Checking if database exists...
+[2025-10-23 19:11:09] ❌ Failed to create database: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 19:11:09] ⚠️ Database creation failed, but continuing...
+[2025-10-23 19:11:09] 🔍 Checking database connection...
+[2025-10-23 19:11:09] ❌ Database connection error: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 19:11:09] 💡 Make sure MySQL/XAMPP is running and database exists
+[2025-10-23 19:11:09] ⚠️ Database connection failed, but continuing...
+[2025-10-23 19:11:09] 🚀 Starting main Flask backend...
+[2025-10-23 19:11:13] ✅ Main Flask backend started on port 5000
+[2025-10-23 19:11:13] 🔧 Starting additional services...
+[2025-10-23 19:11:13] ✅ Daily workflow scheduler started
+[2025-10-23 19:11:13] ✅ N8N integration started
+[2025-10-23 19:11:13] 🧪 Running backend test...
+[2025-10-23 19:11:17] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\ef6\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\ef6\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\ef6\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-23 19:11:20] 🏥 Performing health check...
+[2025-10-23 19:11:22] ✅ Main backend health check - OK
+[2025-10-23 19:11:22]    Database status: Connected
+[2025-10-23 19:11:22] 🔍 Checking database connection...
+[2025-10-23 19:11:22] ❌ Database connection error: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 19:11:22] 💡 Make sure MySQL/XAMPP is running and database exists
+[2025-10-23 19:11:22] ❌ Database health check - FAILED
+[2025-10-23 19:11:22] ==================================================
+[2025-10-23 19:11:22] 🎉 Smart School Backend is now running!
+[2025-10-23 19:11:22] 📍 Main API: http://localhost:5000
+[2025-10-23 19:11:22] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-23 19:11:22] 📝 Logs: backend.log
+[2025-10-23 19:11:22] ==================================================
+[2025-10-23 19:11:22] Press Ctrl+C to stop all services
+[2025-10-23 19:11:23] ⚠️ Process 7220 has stopped
+[2025-10-23 19:11:24] ⚠️ Process 15080 has stopped
+[2025-10-23 20:01:38] 🎯 Smart School Backend Manager Starting...
+[2025-10-23 20:01:38] ==================================================
+[2025-10-23 20:01:38] ⚙️ Setting up environment...
+[2025-10-23 20:01:38] ✅ Environment setup complete
+[2025-10-23 20:01:38] 🔍 Checking dependencies...
+[2025-10-23 20:01:38] ✅ flask - OK
+[2025-10-23 20:01:38] ✅ flask_cors - OK
+[2025-10-23 20:01:38] ✅ pymysql - OK
+[2025-10-23 20:01:38] ✅ requests - OK
+[2025-10-23 20:01:38] ✅ numpy - OK
+[2025-10-23 20:01:40] ✅ pandas - OK
+[2025-10-23 20:01:43] ✅ sklearn - OK
+[2025-10-23 20:01:43] ✅ flask_sqlalchemy - OK
+[2025-10-23 20:01:43] ✅ flask_migrate - OK
+[2025-10-23 20:01:44] ✅ flask_jwt_extended - OK
+[2025-10-23 20:01:44] ✅ dotenv - OK
+[2025-10-23 20:01:44] 🔍 Checking if database exists...
+[2025-10-23 20:01:44] ❌ Failed to create database: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 20:01:44] ⚠️ Database creation failed, but continuing...
+[2025-10-23 20:01:44] 🔍 Checking database connection...
+[2025-10-23 20:01:44] ❌ Database connection error: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 20:01:44] 💡 Make sure MySQL/XAMPP is running and database exists
+[2025-10-23 20:01:44] ⚠️ Database connection failed, but continuing...
+[2025-10-23 20:01:44] 🚀 Starting main Flask backend...
+[2025-10-23 20:01:48] ✅ Main Flask backend started on port 5000
+[2025-10-23 20:01:48] 🔧 Starting additional services...
+[2025-10-23 20:01:48] ✅ Daily workflow scheduler started
+[2025-10-23 20:01:48] ✅ N8N integration started
+[2025-10-23 20:01:48] 🧪 Running backend test...
+[2025-10-23 20:01:51] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\ef6\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\ef6\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\ef6\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-23 20:01:54] 🏥 Performing health check...
+[2025-10-23 20:01:57] ✅ Main backend health check - OK
+[2025-10-23 20:01:57]    Database status: Connected
+[2025-10-23 20:01:57] 🔍 Checking database connection...
+[2025-10-23 20:01:57] ❌ Database connection error: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 20:01:57] 💡 Make sure MySQL/XAMPP is running and database exists
+[2025-10-23 20:01:57] ❌ Database health check - FAILED
+[2025-10-23 20:01:57] ==================================================
+[2025-10-23 20:01:57] 🎉 Smart School Backend is now running!
+[2025-10-23 20:01:57] 📍 Main API: http://localhost:5000
+[2025-10-23 20:01:57] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-23 20:01:57] 📝 Logs: backend.log
+[2025-10-23 20:01:57] ==================================================
+[2025-10-23 20:01:57] Press Ctrl+C to stop all services
+[2025-10-23 20:01:58] ⚠️ Process 9304 has stopped
+[2025-10-23 20:01:59] ⚠️ Process 12212 has stopped
+[2025-10-23 20:04:23] 🎯 Smart School Backend Manager Starting...
+[2025-10-23 20:04:23] ==================================================
+[2025-10-23 20:04:23] ⚙️ Setting up environment...
+[2025-10-23 20:04:23] ✅ Environment setup complete
+[2025-10-23 20:04:23] 🔍 Checking dependencies...
+[2025-10-23 20:04:24] ✅ flask - OK
+[2025-10-23 20:04:24] ✅ flask_cors - OK
+[2025-10-23 20:04:24] ✅ pymysql - OK
+[2025-10-23 20:04:24] ✅ requests - OK
+[2025-10-23 20:04:24] ✅ numpy - OK
+[2025-10-23 20:04:25] ✅ pandas - OK
+[2025-10-23 20:04:27] ✅ sklearn - OK
+[2025-10-23 20:04:27] ✅ flask_sqlalchemy - OK
+[2025-10-23 20:04:28] ✅ flask_migrate - OK
+[2025-10-23 20:04:28] ✅ flask_jwt_extended - OK
+[2025-10-23 20:04:28] ✅ dotenv - OK
+[2025-10-23 20:04:28] 🔍 Checking if database exists...
+[2025-10-23 20:04:28] ❌ Failed to create database: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 20:04:28] ⚠️ Database creation failed, but continuing...
+[2025-10-23 20:04:28] 🔍 Checking database connection...
+[2025-10-23 20:04:28] ❌ Database connection error: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 20:04:28] 💡 Make sure MySQL/XAMPP is running and database exists
+[2025-10-23 20:04:28] ⚠️ Database connection failed, but continuing...
+[2025-10-23 20:04:28] 🚀 Starting main Flask backend...
+[2025-10-23 20:04:32] ✅ Main Flask backend started on port 5000
+[2025-10-23 20:04:32] 🔧 Starting additional services...
+[2025-10-23 20:04:32] ✅ Daily workflow scheduler started
+[2025-10-23 20:04:32] ✅ N8N integration started
+[2025-10-23 20:04:32] 🧪 Running backend test...
+[2025-10-23 20:04:36] ⚠️ Backend test failed: Traceback (most recent call last):
+  File "C:\Users\ef6\Desktop\school\school\backend\test_backend.py", line 77, in <module>
+    success = test_backend()
+              ^^^^^^^^^^^^^^
+  File "C:\Users\ef6\Desktop\school\school\backend\test_backend.py", line 14, in test_backend
+    print("\U0001f9ea Testing Smart School Backend...")
+  File "C:\Users\ef6\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f9ea' in position 0: character maps to <undefined>
+
+[2025-10-23 20:04:39] 🏥 Performing health check...
+[2025-10-23 20:04:41] ✅ Main backend health check - OK
+[2025-10-23 20:04:41]    Database status: Connected
+[2025-10-23 20:04:41] 🔍 Checking database connection...
+[2025-10-23 20:04:41] ❌ Database connection error: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+[2025-10-23 20:04:41] 💡 Make sure MySQL/XAMPP is running and database exists
+[2025-10-23 20:04:41] ❌ Database health check - FAILED
+[2025-10-23 20:04:41] ==================================================
+[2025-10-23 20:04:41] 🎉 Smart School Backend is now running!
+[2025-10-23 20:04:41] 📍 Main API: http://localhost:5000
+[2025-10-23 20:04:41] 🔗 Health Check: http://localhost:5000/api/health
+[2025-10-23 20:04:41] 📝 Logs: backend.log
+[2025-10-23 20:04:41] ==================================================
+[2025-10-23 20:04:41] Press Ctrl+C to stop all services
+[2025-10-23 20:04:42] ⚠️ Process 10872 has stopped
+[2025-10-23 20:04:43] ⚠️ Process 3832 has stopped
