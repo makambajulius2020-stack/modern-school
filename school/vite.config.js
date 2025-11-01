@@ -8,8 +8,12 @@ export default defineConfig(({ mode }) => {
 
   return {
     plugins: [react()],
+    // ADD THIS BUILD CONFIG:
+    build: {
+      outDir: 'dist',
+      emptyOutDir: true
+    },
     server: {
-      // Use 3002 to match the port Vite chose when 3001 was occupied
       port: 3002,
       host: true,
       proxy: {
