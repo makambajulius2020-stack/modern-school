@@ -7,7 +7,6 @@ export default defineConfig(({ mode }) => {
 
   return {
     plugins: [react()],
-    // ADD THIS BASE CONFIG:
     base: '/',
     build: {
       outDir: 'dist',
@@ -16,6 +15,11 @@ export default defineConfig(({ mode }) => {
     server: {
       port: 3002,
       host: true,
+      allowedHosts: [
+        'modern-frontend.onrender.com',
+        'localhost',
+        '127.0.0.1'
+      ],
       proxy: {
         '/api': {
           target,
@@ -24,5 +28,14 @@ export default defineConfig(({ mode }) => {
         },
       },
     },
+    preview: {
+      port: 3002,
+      host: true,
+      allowedHosts: [
+        'modern-frontend.onrender.com',
+        'localhost',
+        '127.0.0.1'
+      ]
+    }
   }
 })
