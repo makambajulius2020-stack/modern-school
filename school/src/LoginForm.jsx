@@ -51,7 +51,7 @@ const LoginForm = ({ loginForm, setLoginForm, handleLogin }) => {
     
     try {
       // Use database API only
-      const explicit = (import.meta.env.VITE_API_URL || 'https://modern-backend-mqim.onrender.com').trim().replace(/\/+$/, '');
+      const explicit = (import.meta.env.VITE_API_URL || '').trim().replace(/\/+$/, '');
       const apiBase = explicit ? `${explicit}/api` : '/api';
       const response = await fetch(`${apiBase}/auth/register`, {
         method: 'POST',
