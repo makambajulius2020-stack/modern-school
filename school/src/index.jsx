@@ -60,7 +60,7 @@ class ErrorBoundary extends React.Component {
     if (this.state.hasError) {
       return (
         <div style={{ padding: '20px', backgroundColor: '#fee', color: '#c00' }}>
-          <h1>Something went wrong with the Smart School App</h1>
+          <h1>Something went wrong with the Modern School App</h1>
           <p>Error: {this.state.error?.message}</p>
           <pre>{this.state.error?.stack}</pre>
           <button onClick={() => window.location.reload()} style={{ marginTop: '10px', padding: '10px' }}>
@@ -86,6 +86,6 @@ import('./SmartSchoolApp.jsx')
     );
   })
   .catch((err) => {
-    console.error('Failed to load SmartSchoolApp:', err);
+    console.error('Failed to load ModernSchoolApp:', err);
     showFatalError('Failed to load app module.', err?.stack || String(err));
   });
