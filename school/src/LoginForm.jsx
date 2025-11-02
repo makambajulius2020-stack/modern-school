@@ -82,7 +82,7 @@ const LoginForm = ({ loginForm, setLoginForm, handleLogin }) => {
         <div className="bg-blue-100 rounded-full w-20 h-20 flex items-center justify-center mx-auto mb-4">
           <GraduationCap className="w-10 h-10 text-blue-600" />
         </div>
-        <h1 className="text-3xl font-bold text-gray-800"> Modern School</h1>
+        <h1 className="text-3xl font-bold text-gray-800">Modern School</h1>
         <p className="text-gray-600 mt-2">AI-Powered Management System</p>
       </div>
       {/* Toggle buttons */}
