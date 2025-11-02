@@ -98,6 +98,7 @@ import AdminTeacherRatingsPanel from './components/AdminTeacherRatingsPanel';
 
 
 const SmartSchoolApp = () => {
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = React.useState(false);
   const [currentUser, setCurrentUser] = React.useState(null);
   const [loginForm, setLoginForm] = React.useState({ email: '', password: '', showPassword: false });
   const [activeTab, setActiveTab] = React.useState('dashboard');
@@ -688,8 +689,25 @@ const SmartSchoolApp = () => {
   const navigationItems = getNavigationItems(currentUser.role);
 
   return (
-    <div className={`flex h-screen transition-colors duration-300 ${darkMode ? 'dark bg-gray-900' : 'bg-gray-100'}`}>
-      {/* Sidebar */}
+    <div className={`flex h-screen overflow-hidden transition-colors duration-300 ${darkMode ? 'dark bg-gray-900' : 'bg-gray-100'}`}>
+      {/* Sidebar - Updated for mobile */}
+      <div className={`
+  ${isMobileMenuOpen ? 'fixed inset-0 z-50 lg:relative lg:inset-auto' : 'hidden lg:flex'}
+  w-64 lg:w-64 h-screen overflow-y-scroll shadow-lg flex flex-col transition-colors duration-300 sidebar-scroll 
+  ${darkMode ? 'bg-gray-800' : 'bg-white'}
+`}>
+  {/* Close button for mobile */}
+  {isMobileMenuOpen && (
+    <div className="lg:hidden p-4 border-b flex justify-between items-center">
+      <h2 className="font-bold text-lg text-white">Menu</h2>
+      <button
+        onClick={() => setIsMobileMenuOpen(false)}
+        className="text-gray-400 hover:text-white"
+      >
+        ✕
+      </button>
+    </div>
+  )}
       <div className={`w-64 shadow-lg flex flex-col transition-colors duration-300 ${darkMode ? 'bg-gray-800' : 'bg-white'}`}>
         <div className="p-6 border-b flex-shrink-0">
           <div className="flex items-center">
@@ -702,7 +720,7 @@ const SmartSchoolApp = () => {
             </div>
           </div>
         </div>
-        <div className="flex-1 overflow-y-auto">
+        <div className="flex-1 min-h-0 pr-3">
           <nav className="mt-6 pb-6">
           {(() => {
             // Group navigation items by section
@@ -753,11 +771,15 @@ const SmartSchoolApp = () => {
                     {sectionItems.map((item) => (
                       <button
                         key={item.id}
-                        onClick={() => setActiveTab(item.id)}
-                        className={`w-full flex items-center px-6 py-2.5 text-left hover:bg-blue-50 transition-colors text-sm ${
+                        onClick={() => {setActiveTab(item.id); setIsMobileMenuOpen(false);}}
+                        className={`w-full flex items-center px-6 py-2.5 text-left transition-colors text-sm ${
                           activeTab === item.id 
-                            ? 'bg-blue-50 border-r-2 border-blue-500 text-blue-600 font-medium' 
-                            : 'text-gray-600 hover:text-gray-800'
+                            ? (darkMode 
+                                ? 'bg-gray-700 border-r-2 border-blue-400 text-blue-300 font-medium' 
+                                : 'bg-blue-50 border-r-2 border-blue-500 text-blue-600 font-medium')
+                            : (darkMode 
+                                ? 'text-gray-300 hover:text-white hover:bg-gray-700' 
+                                : 'text-gray-600 hover:text-gray-800 hover:bg-blue-50')
                         }`}
                       >
                         <item.icon className="w-4 h-4 mr-3 flex-shrink-0" />
@@ -786,23 +808,48 @@ const SmartSchoolApp = () => {
           </div>
         </div>
       </div>
+      </div>
+      {isMobileMenuOpen && (
+  <div 
+    className="fixed inset-0 bg-black bg-opacity-50 z-40 lg:hidden"
+    onClick={() => setIsMobileMenuOpen(false)}
+  ></div>
+)}
+
       {/* Main Content */}
       <div className="flex-1 overflow-auto">
         <div className="p-4 md:p-6 max-w-7xl mx-auto">
-          <div className="flex items-center justify-between mb-6">
-            {/* Hide header for certain pages that have their own titles */}
-            {!['rfid-management', 'profile'].includes(activeTab) && (
-              <div>
-                <h1 className={`text-2xl font-bold ${darkMode ? 'text-white' : 'text-gray-800'}`}>
-                  {activeTab === 'ai-analytics' && currentUser.role === 'student' 
-                    ? 'My Performance' 
-                    : activeTab.charAt(0).toUpperCase() + activeTab.slice(1).replace('-', ' ')}
-                </h1>
-                <p className={`${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>Welcome back, {currentUser.name}</p>
-              </div>
-            )}
-            {/* Dark Mode Toggle and Notifications */}
-            <div className={`flex items-center space-x-4 ${['rfid-management', 'profile'].includes(activeTab) ? 'ml-auto' : ''}`}>
+                 <div className="flex items-center justify-between mb-6">
+          {/* Hide header for certain pages that have their own titles */}
+          {!['rfid-management', 'profile'].includes(activeTab) && (
+            <div>
+              <h1 className={`text-2xl font-bold ${darkMode ? 'text-white' : 'text-gray-800'}`}>
+                {activeTab === 'ai-analytics' && currentUser.role === 'student' 
+                  ? 'My Performance' 
+                  : activeTab.charAt(0).toUpperCase() + activeTab.slice(1).replace('-', ' ')}
+              </h1>
+              <p className={`${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>Welcome back, {currentUser.name}</p>
+            </div>
+          )}
+          {/* Dark Mode Toggle and Notifications */}
+          <div className={`flex items-center space-x-4 ${['rfid-management', 'profile'].includes(activeTab) ? 'ml-auto' : ''}`}>
+                    {/* Mobile Menu Button  */}
+      <button
+        onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+        className={`lg:hidden p-2 mr-3 rounded-lg ${
+          darkMode 
+            ? 'bg-gray-700 text-gray-300 hover:bg-gray-600' 
+            : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+        }`}
+      >
+        {/* Hamburger icon */}
+        <div className="w-6 h-6 flex flex-col justify-between">
+          <div className={`w-full h-0.5 ${darkMode ? 'bg-gray-300' : 'bg-gray-600'} rounded`}></div>
+          <div className={`w-full h-0.5 ${darkMode ? 'bg-gray-300' : 'bg-gray-600'} rounded`}></div>
+          <div className={`w-full h-0.5 ${darkMode ? 'bg-gray-300' : 'bg-gray-600'} rounded`}></div>
+        </div>
+      </button>
+      
               {/* Dark Mode Toggle */}
               <button
                 onClick={() => setDarkMode(!darkMode)}
