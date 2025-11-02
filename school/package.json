@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "smart-school-app",
-=======
   "name": "modern-school",
->>>>>>> c69e572a285ecfec6842ef48b961ff85e2b6aac1
   "version": "1.0.0",
   "private": true,
   "scripts": {
