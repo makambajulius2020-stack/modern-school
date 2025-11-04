@@ -543,7 +543,7 @@ const SmartSchoolApp = () => {
         // Academic Management
         { id: 'classes', label: 'Class Management', icon: BookOpen, section: 'academic' },
         { id: 'subjects', label: 'Digital Library', icon: FileText, section: 'academic' },
-        { id: 'curriculum', label: 'Curriculum Setup', icon: GraduationCap, section: 'academic' },
+        //{ id: 'curriculum', label: 'Curriculum Setup', icon: GraduationCap, section: 'academic' },
         { id: 'assignments', label: 'Assignment Overview', icon: FileText, section: 'academic' },
         
         // Attendance & Tracking
@@ -587,7 +587,7 @@ const SmartSchoolApp = () => {
         { id: 'lesson-planning', label: 'Lesson Planning', icon: BookOpen, section: 'teaching' },
         { id: 'unit-plan-generator', label: 'AI Powered Unit Plan Generator', icon: Brain, section: 'teaching' },
         { id: 'ai-teaching-tools', label: 'AI Powered Teaching Tools', icon: Target, section: 'teaching' },
-        { id: 'curriculum-alignment', label: 'UNEB Alignment', icon: GraduationCap, section: 'teaching' },
+        //{ id: 'curriculum-alignment', label: 'UNEB Alignment', icon: GraduationCap, section: 'teaching' },
         { id: 'teaching-resources', label: 'Teaching Resources', icon: Brain, section: 'teaching' },
         
         // Class Management
